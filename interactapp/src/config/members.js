@@ -12,7 +12,7 @@ export const membersList = [
         id:2,
         name: "Sebastian Stoenoiu",
         role:"Vicepreședinte",
-        image: '/assets/members/sebi.jpeg',
+        image: '/assets/members/sebi.jpg',
         instagram: 'sebastianstoenoiu',
         instagramLink: 'https://www.instagram.com/sebastianstoenoiu'
 
@@ -20,19 +20,19 @@ export const membersList = [
 
     {
         id:3,
-        name: "Alina Ardeleanu",
+        name: "Andreea Ciorici",
         role:"Secretar",
-        image: '/assets/members/alina.jpeg',
-        instagram: 'alina.ardeleanu',
-        instagramLink: 'https://www.instagram.com/alina.ardeleanu'
+        image: '/assets/members/andreea.jpg',
+        instagram: 'andreyyac',
+        instagramLink: 'https://www.instagram.com/andreyyac/'
     },
 
     {
         id:4,
-        name: "Adela Bolba",
+        name: "Alexia Andreica",
         role:"Trezorier",
-        image: '/assets/members/adela.jpeg',
-        instagram: 'whos__adela',
-        instagramLink: 'https://www.instagram.com/whos__adela'
+        image: '/assets/members/alexia.jpg',
+        instagram: 'andreica_alexia',
+        instagramLink: 'https://www.instagram.com/andreica_alexia/'
     }
 ]
