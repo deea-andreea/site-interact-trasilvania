@@ -1,7 +1,7 @@
 export const projectsList = [
     {
         id: 1,
-        title: "Aici Improvizăm",
+        title: "Aici Improvizam",
         vision: `Înainte de începerea efectivă a activitățiilor, reprezentanți ai Asociației Redescoperă Fericirea, cauză susținută de Interact Transilvania prin acest eveniment, au vorbit participanților despre ceea ce fac și ce anume îi determină, aducând la lumină importanța susținerii terapeutice a bolnavilor de cancer și a familiilor acestora. Ne bucurăm că am avut plăcerea de a avea ca spectatori și participanți pe câțiva membri ai cauzei pe care o susținem, astfel că am simțit atât noi, organizatorii, cât și participanții, scopul cu care ne-am strâns împreună în acea zi.`,
         description: `Activitățile au început cu jocuri de mișcare în spațiu, care au ajutat participanții să se conecteze între ei, să simtă fiecare locul unde se află coechipierii de pe scenă. Apoi au urmat jocuri de încredere și atenție, iar, în final, o serie de scenete improvizate după anumite reguli, care au necesitat imaginația și creativitatea tinerilor actori. În tot acest timp, atât cei la care le venea rândul să fie pe scenă, cât și spectatorii au avut mereu zâmbetul pe buze. Toate aceste activități au fost coordonate de Ruxandra Igna și Sara Pongrac, studente la teatru, care, la final, au susținut o sesiune de discuții libere și deschise legate de ce înseamnă lumea teatrului, informații despre facultate și au oferit tips and tricks legate de actorie celor interesați.`,
         coverImg: '/assets/projectImages/coverImages/teatru.png',
