@@ -1,6 +1,57 @@
 export const blogList = [
     {
         id:1,
+        title: `Dacă am încetini ritmul vieții...`,
+        category: 'Social',
+        color: '#A19664',
+        time: '5 minute',
+        coverImg:'/assets/blogImages/cover/miere 1 aug cover.jpg',
+        landscapeImg:'/assets/blogImages/landscape/miere 1 aug landscape.jpg',
+        description: `Oare ce s-ar întâmpla dacă am începe sa nu ne mai grăbim? Să încetinim ritmul vieții nostre puțin câte puțin. Oare am vedea mai clar lumea din jurul nostru?`,
+        paragraph1: `Știu că un articol despre cum am început să mă bucur de lucrurile mici din viața mea sună destul de cheesy sau ciudat. Dar culmea, chiar am început să o fac și am zis să împărtășesc cu voi puțin din experiența mea.`,
+        paragraph2: `Sunt văzut, atât de prieteni, cât și de colegi, ca fiind o persoană vioaie. La rândul meu, m-am înconjurat de oameni pozitivi și fericiți. Când eram mic ai mei îmi ziceau „Tot timpul trebuie să vezi partea plină a paharului”. Pe atunci credeam că vorba asta e complet nesemnificativă, dar cu trecerea timpului, percepția mea asupra acesteia s-a schimbat puțin și am început să le dau dreptate alor mei.`,
+        paragraph3: `Am ajuns să realizez că experiențele la care mă uit în urmă cu cel mai mult drag sunt mereu lucrurile mici care se întâmplă zilnic. De exemplu: un apus de soare, o plimbare înceată prin parc (sau pe tot felul de coclauri cu prietenii), văzutul oamenilor cum omenesc și overall cât de frumoasă poate fi viața dacă pur și simplu o iei încet și fără să te grăbești.`,
+        paragraph4: `Acum o lună și un pic mi-am fracturat tibia la baschet. Mi-am dat ghipsul jos în urmă cu o săptămână și acum încep protocolul de recuperare. Sigur, sunt supărat pentru că am pierdut o bucată bună din vară și încă o să mai pierd, dar cu proverbul de sus în minte pot să zic că mi-a fost puțin mai ușor să trec peste perioada asta crâncenă.`,
+        paragraph5: `La un moment dat am mers pe balcon, țopăind bine înțeles, și am privit un apus de soare. Nu mai ieșisem din camera mea de 2 săptămâni, doar cât să mă duc la baie sau chestii de genu, și când am văzut apusul acela de soare m-am apucat de plâns. Bine, nu în hohote sau ceva, dar mi-au dat câteva lacrimi când mi-am amintit cât de frumoasă poate fi viața uneori dacă știi să apreciezi lucrurile mici.`,
+        paragraph6: `Am început să scriu acest articol când directoarea de la redacție a făcut o remarcă prietenoasă zicând „Să știi că ai putea să scrii un articol despre cum te bucuri tu de lucruri mici precum apusurile de soare sau plimbările tale lungi”.`,
+        paragraph8: `A fost o idee foarte bună să fiu sincer. Când fac „plimbările mele lungi” ascult nimic altceva decât muzică clasică. Dacă nu mă cunoașteți deja, sunt un mare entuziast de muzica clasică și în plus, și un pianist amator. Ascult muzică clasică toată ziua și ajung să am o poveste de spus, despre aproape toate piesele din playlistul meu. Aș putea spune că eu chiar îmi fac viața mai interesantă ascultând muzică clasică. Povestea mea cu muzica e super drăguță, zic eu. Prima oară când am avut în fața mea un pian a fost când aveam 5 ani. Eu am mers la o grădiniță catolică și după-amiezile le petreceam de obicei la repetițiile de flaut. Acestea se țineau în catedrala aceea din Piața Cipariu care se construiește de 20 de ani încoace. Într-o zi când ieșeam de la repetiții am văzut pianul deschis. Până atunci nu îl mai văzusem deschis pentru că era tot timpul acoperit și când voiam să îl deschid nu eram lăsat ori de profesoara de la repetiții, ori de părinți, dar într-o zi am văzut că pianul era deschis. Fiind cuprins de curiozitate m-am repezit să ating o clapă și cutia aia uriașă, așa cum o vedeam eu. A scos un sunet și m-a speriat. Când m-a prins și tata din urmă l-am întrebat ce instrument era „cutia asta uriașă” la care el mi-a răspuns „Acesta este un pian”. Din ziua aceea am decis că eu vreau să studiez numai și numai pian. Au mai încercat ai mei să mă convingă să cânt și la alte instrumente precum chitara, tobele și multe altele, dar nu le-a ieșit. Acum trăiesc alături de pianul meu, obsedat de muzică clasică și de viața de artist în sine. Îmi e greu să găsesc cuvinte pentru sentimentele pe care le simt, dar mă simt împăcat cu mine și mă bucur de viață mai mult decât mă bucuram, să zicem, acum 2-3 ani. Viața pare mult mai primitoare și mai colorată de când am început să apreciez și lucrurile mici din viața de zi cu zi. Totul pare mult mai simplu. Aproape nimic nu mai e complicat și ceea ce este complicat se rezolvă la un moment dat.`,
+        paragraph10: `Sigur, nu sugerez ca și voi, cititorii acestui articol, să vă puneți să ascultați muzică clasică, dar sugerez să o luați un pic mai încet din când în când ca să puteți admira și „Partea plină a paharului”. Mersi că v-ați luat o bucățică din zi ca să-mi citiți articolul și vă recomand călduros să începeți și voi să vă bucurați de voi lucrurile mici care vă înconjoară și așteaptă să le apreciați.`,
+
+        author: "Ștefan Miere",
+        date: "1 August, 2023"
+
+    },
+
+    {
+        id:2,
+        title: `Recenzie carte - “Căutând-o pe Alaska”`,
+        category: 'Cultură',
+        color: '#CC704B',
+        time: '5 minute',
+        coverImg:'/assets/blogImages/cover/sophie 1 aug cover.jpg',
+        landscapeImg:'/assets/blogImages/landscape/sophie 1 aug landscape.jpg',
+        description: `Romanul care mi-a schimbat percepția asupra vieții de adolescent`,
+        paragraph1: `Pasiunea pentru lectură este o parte din mine de când mă știu, însă nu cred că a existat vreo carte pe care să o fi admirat mai mult decât pe „Căutând-o pe Alaska” de John Green.`,
+        paragraph2: `Miles „Pudge” Halter este un adolescent de 17 ani din Florida care decide să își schimbe radical viața, luând-o pe pașii tatălui său, mai exact părăsind casa părintească pentru a se alătura școlii cu internat „Culver Creek”, Alabama. Noul lui coleg de cameră, Chip Martin „Colonelul”, îi face cunoștință cu cei doi prieteni ai săi, Alaska și Takumi.`,
+        paragraph3: `Din momentul în care Miles o cunoaște pe Alaska, viziunea lui asupra vieții ia o întorsătură. Cei doi împart o pasiune pentru filozofie, fapt ce-i aduce tot mai aproape.`,
+        paragraph4: `Încă din primele pagini ale romanului, am simțit o adâncă legătură cu Miles Halter și cu perspectiva sa asupra diverselor situații prezentate în carte.`,
+        paragraph5: `Unul dintre multele lucruri ce m-au impresionat este modul în care băiatul o percepe pe Alaska, văzând mai departe de frumusețea ei și vorbind despre ea ca despre o poezie cu metafore greu de descifrat, dar atât de frumos scrise.`,
+        paragraph6: `El reușește să o pună atât de bine în evidență pe Alaska, să o facă pe ea personajul principal în propria poveste, în ciuda faptului că el este naratorul.`,
+        paragraph8: `Atât datorită obiceiului meu de a scrie poezii și scrisori când sunt implicată în situații romantice, cât și mulțumită stilului meu de atașament, mă regăsesc în situația băiatului.`,
+        paragraph10: `Sentimentele Alaskăi le influențează pe cele ale lui Miles, el fiind cel mai implicat în lumea ei dintre toate personajele, deși o cunoaște de cel mai puțin timp. În ciuda faptului că nu este exact vorba despre o poveste de dragoste, legătura dintre cei doi mi se pare una dintre cele mai impresionante din lumea fictivă a lecturii și a filmului.`,
+        paragraph12: 'Impactul romanului asupra percepției mele față de prietenie, iubire și sine a fost unul semnificant. Citind „Căutând-o pe Alaska”, am primit un foarte bun exemplu de „viața merge înainte”.',
+        paragraph14: 'În perioada lecturării, mă aflam într-o perioadă de tranziție între două “capitole” ale vieții mele. Un lucru ce mi-a ridicat moralul a fost a mă pune în pielea personajelor, a încerca să văd lumea prin ochii lor, iar aceasta este o experiență pe care pot doar să o recomand.',
+        paragraph16: 'Fără a strica plăcerea de a o citi, voi spune doar că este vorba despre o poveste atât de tragică, un „rollercoaster emoțional”, cum s-ar spune, dar care se merită citit.',
+
+        author: "Sophie Popa",
+        date: "1 August, 2023"
+
+    },
+    
+    
+    
+    {
+        id:1,
         title: `Voluntariatul – manifestare a altruismului?`,
         category: 'Social',
         color: '#A19664',
