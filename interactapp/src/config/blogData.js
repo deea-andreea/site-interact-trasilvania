@@ -48,10 +48,35 @@ export const blogList = [
 
     },
     
+    {
+        id:3,
+        title: `Recenzie carte - “Camera albastră”`,
+        category: 'Cultură',
+        color: '#CC704B',
+        time: '5 minute',
+        coverImg:'/assets/blogImages/cover/sophie 1 aug cover.jpg',
+        landscapeImg:'/assets/blogImages/landscape/sophie 1 aug landscape.jpg',
+        description: `Camera albastra, scrisă de Diana Rusu, este o carte scurta, dar profundă, de poezii artistice, publicată în anul 2022. Abordează tematica stilului de viață urban, împărtășindu-ne experiențele ei de-a lungul anilor.`,
+        paragraph1: `Camera albastră este un „easy read”, o carte relativ scurtă, dar care are o valoare sentimentală enormă. E o carte de poezie, puțin abstractă, din care am putut extrage multe mesaje indirecte, un exemplu des întâlnit fiind asocierea camerei albastre cu un sentiment trecător de singurătate.`,
+        paragraph2: `Aceasta este scrisă de Diana Rusu, care ne împărtășește experiențele unui tânăr adult în lumea urbană. `,
+        paragraph3: `Dacă vorbim și despre felul în care e scrisă, putem observa că autoarea alege să nu urmeze structura clasică a poeziei, folosind rima, ci se focusează pe repetarea unor cuvinte, ceea ce face poeziile să aibă un impact mai mare asupra cititorului.`,
+        q1: `„În timp și mă oblig să scriu/ din cauza lor scriu cum scriu”`,
+        paragraph5: `Redactarea este realizată într-un mod artistic. Pe scurt, în astfel de cărți nu se scoate în evidență un punct culminant, sau evenimente considerate importante, se bazează mai mult pe simplitatea unei rutine. „E o carte în care nu se întâmplă nimic” cum ar zice unii.`,
+        paragraph6: `Când spun asta, nu critic compoziția cărții. Ba dimpotrivă, e unul dintre tipurile mele preferate de cărți. Cartea îți oferă sentimentul că trăiești alături de autor, pentru câteva pagini. Trăiești viața altcuiva, te simți indirect implicată în activitățile zilnice ale unui om obișnuit. Câteodată, începi să crezi că asculți noutățile unei prietene bune. E scrisă într-un format simplu și confortabil. Perfectă pentru ieșiri spontane la o cafenea din centru.`,
+        paragraph8: `Multe din poeziile prezentate vorbesc despre un subiect anume, cum ar fi gara sau, în sine, camera albastră, metafore care ascund emoții puternice. Permite fiecărui om să interpretează poezia diferit și să o lege indirect de o experiență proprie.`,
+        paragraph10: `De asemenea, autoarea își romanizează experiențele într-un mod în care transformă întâmplări așa-zise nesemnificative în punctul principal al poeziei, lăsând celelalte trăiri și emoții, care sunt menite să ne afecteze, să pară mai neimportante. Ne ajută să ne privim viața cu alți ochi.`,
+        paragraph12: '„Camera Albastră”, pe scurt, ironizează seriozitatea societății.',
+        paragraph14: 'E o carte care te forțează să-ți descoperi umanitatea și sensibilitatea, să fii atent la detalii, fără a te pierde în ele.',
+        paragraph16: 'Eu scriu poezii din pasiune și din pură fascinație față de gândirea filosofică. Cartea m-a inspirat și pot spune că mi-a dat multe idei noi. Ca atare, m-am regăsit și în problemele prezentate de aceasta, fericită să văd că au și un răspuns, o semnificație și o rezolvare rațională.',
+
+        author: "Maia Hermann",
+        date: "1 August, 2023"
+
+    },
     
     
     {
-        id:1,
+        id:4,
         title: `Voluntariatul – manifestare a altruismului?`,
         category: 'Social',
         color: '#A19664',
@@ -81,7 +106,7 @@ export const blogList = [
     },
 
     {
-        id:2,
+        id:5,
         title: `Recenzie carte - “Ca și cum nimic nu s-ar fi întâmplat”`,
         category: 'Cultură',
         color: '#CC704B',
@@ -100,7 +125,7 @@ export const blogList = [
     },
 
     {
-        id:3,
+        id:6,
         title: `În conversație cu noua generație de artiști`,
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -182,7 +207,7 @@ export const blogList = [
     },
 
     {
-        id:4,
+        id:7,
         title: `Cum a fost la "Poveste la film"`,
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -203,7 +228,7 @@ export const blogList = [
     },
 
     {
-        id:5,
+        id:8,
         title: `Despre "Aici Improvizăm"`,
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -223,7 +248,7 @@ export const blogList = [
     },
 
     {
-        id:6,
+        id:9,
         title: "Rujul și privirea masculină",
         category: 'Social',
         color: '#A19664',
@@ -253,7 +278,7 @@ export const blogList = [
     },
 
     {
-        id:7,
+        id:10,
         title: `Prima mea iubire muzicală.`,
         category: 'Cultură',
         color: '#CC704B',
@@ -282,7 +307,7 @@ export const blogList = [
     },
 
     {
-        id:8,
+        id:11,
         title: "STEM vs Arts",
         category: 'Social',
         color: '#A19664',
@@ -305,7 +330,7 @@ export const blogList = [
 
     {
 
-        id:9,
+        id:12,
         title: 'Nu sunt pasionata de nimic',
         category: 'Social',
         color: '#A19664',
@@ -329,7 +354,7 @@ export const blogList = [
     },
 
     {
-        id:10,
+        id:13,
         title: `Fallen Angels (1995) - o experiență cinematografică`,
         category: 'Cultură',
         color: '#CC704B',
@@ -350,7 +375,7 @@ export const blogList = [
     },
 
     {
-        id:11,
+        id:14,
         title: `Woodstock '99`,
         category: 'Cultură',
         color: '#CC704B',
@@ -375,7 +400,7 @@ export const blogList = [
     },
 
     {
-        id: 12,
+        id: 15,
         title: "Cafeluța de dimineață",
         category: "Social",
         color: '#A19664',
@@ -396,7 +421,7 @@ export const blogList = [
     },
 
     {
-        id:13,
+        id:16,
         title: 'Globuri și Copii ',
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -417,7 +442,7 @@ export const blogList = [
     },
 
     {
-        id:14,
+        id:17,
         title: 'În conversație cu noua generație de poeți',
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -459,7 +484,7 @@ export const blogList = [
     },
 
     {
-        id:15,
+        id:18,
         title: 'Despre Pălăvrăgeală Poetică',
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -478,7 +503,7 @@ export const blogList = [
     },
     
     {
-        id:16,
+        id:19,
         title: 'Taylor Swift',
         category: 'Cultură',
         color: '#CC704B',
@@ -501,7 +526,7 @@ export const blogList = [
     },
 
     {
-        id:17,
+        id:20,
         title: 'Odd Future- o scurtă istorie',
         category: 'Cultură',
         color: '#CC704B',
@@ -522,7 +547,7 @@ export const blogList = [
     },
     
     {
-        id: 18,
+        id: 21,
         title: "Winter fashion",
         category: 'Cultură',
         color: '#CC704B',
@@ -543,7 +568,7 @@ export const blogList = [
     },
 
     {
-        id: 19,
+        id: 22,
         title: 'Recenzie carte - "O altă țară"',
         subtitle: "Gata să izbucnească în muzică sau în flăcări sau o revelație",
         category: 'Cultură',
@@ -560,7 +585,7 @@ export const blogList = [
         date: "30 Noiembrie, 2022"
     },
     {
-        id: 20,
+        id: 23,
         title: "Autodescoperire sau autodistrugere?",
         category: "Social",
         color: '#A19664',
@@ -579,7 +604,7 @@ export const blogList = [
     },
 
     {
-        id:21,
+        id:24,
         title: "Muzică în căști cât tocești la bio",
         category: "Social",
         color: '#A19664',
@@ -599,7 +624,7 @@ export const blogList = [
     },
 
     {
-        id: 22,
+        id: 25,
         title: "Validarea academică",
         category: 'Social',
         color: '#A19664',
@@ -619,7 +644,7 @@ export const blogList = [
     },
 
     {
-        id: 23,
+        id: 26,
         title: 'Recenzie carte - "O viață măruntă"',
         category: 'Cultură',
         color: '#CC704B',
@@ -640,7 +665,7 @@ export const blogList = [
     },
 
     {
-        id: 24,
+        id: 27,
         title: "Despre Graffiti Drop",
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -676,7 +701,7 @@ export const blogList = [
     },
 
     {
-        id: 25,
+        id: 28,
         title: "Interact Transilvania --- Începuturi",
         category: 'Interact Transilvania',
         color: '#3A8891',
