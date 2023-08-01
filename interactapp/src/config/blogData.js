@@ -60,7 +60,7 @@ export const blogList = [
         paragraph1: `Camera albastră este un „easy read”, o carte relativ scurtă, dar care are o valoare sentimentală enormă. E o carte de poezie, puțin abstractă, din care am putut extrage multe mesaje indirecte, un exemplu des întâlnit fiind asocierea camerei albastre cu un sentiment trecător de singurătate.`,
         paragraph2: `Aceasta este scrisă de Diana Rusu, care ne împărtășește experiențele unui tânăr adult în lumea urbană. `,
         paragraph3: `Dacă vorbim și despre felul în care e scrisă, putem observa că autoarea alege să nu urmeze structura clasică a poeziei, folosind rima, ci se focusează pe repetarea unor cuvinte, ceea ce face poeziile să aibă un impact mai mare asupra cititorului.`,
-        q1: `„În timp și mă oblig să scriu/ din cauza lor scriu cum scriu”`,
+        paragraph4: `„În timp și mă oblig să scriu/ din cauza lor scriu cum scriu”`,
         paragraph5: `Redactarea este realizată într-un mod artistic. Pe scurt, în astfel de cărți nu se scoate în evidență un punct culminant, sau evenimente considerate importante, se bazează mai mult pe simplitatea unei rutine. „E o carte în care nu se întâmplă nimic” cum ar zice unii.`,
         paragraph6: `Când spun asta, nu critic compoziția cărții. Ba dimpotrivă, e unul dintre tipurile mele preferate de cărți. Cartea îți oferă sentimentul că trăiești alături de autor, pentru câteva pagini. Trăiești viața altcuiva, te simți indirect implicată în activitățile zilnice ale unui om obișnuit. Câteodată, începi să crezi că asculți noutățile unei prietene bune. E scrisă într-un format simplu și confortabil. Perfectă pentru ieșiri spontane la o cafenea din centru.`,
         paragraph8: `Multe din poeziile prezentate vorbesc despre un subiect anume, cum ar fi gara sau, în sine, camera albastră, metafore care ascund emoții puternice. Permite fiecărui om să interpretează poezia diferit și să o lege indirect de o experiență proprie.`,
@@ -73,14 +73,122 @@ export const blogList = [
         date: "1 August, 2023"
 
     },
-    
-    
+
+
     {
         id:4,
+        title: `M-ar mai speria filmele horror dacă le-aș da pe mut?`,
+        category: 'Cultură',
+        color: '#CC704B',
+        time: '5 minute',
+        coverImg:'/assets/blogImages/cover/maria dejeu 12 iulie cover.jpeg',
+        landscapeImg:'assets/blogImages/landscape/maria dejeu 12 iulie landscape.jpeg',
+        description: `Ți s-a mai întâmplat să dai automat sunetul mai încet la film când urma o secvență „scary”, încât să nu te sperii atât de tare? Păi și lucrul acesta are sensul lui, indiferent cât de mare îți este afinitatea pentru filmele horror.`,
+        paragraph1: `Eram în clasa a cincea și stăteam în spatele clasei când am dat peste trailer-ul filmului „It”, adaptat după nuvela horror a lui Stephen King. În capul meu de copil de zece ani cred că s-a schimbat ceva la nivel biologic (nu s-a schimbat, dar înțelegeți voi) când celebrul balon roșu a lui Pennywise plutea prin bibliotecă. În acel moment,  normal că nu am stat să mă gândesc de ce nu am mai putut dormi cum trebuie două săptămâni întregi. Însă, la un moment dat, curiozitatea dobândită de-a lungul ultimilor ani m-a îndemnat să spun „De ce?” și atunci am realizat că melodia aproape neauzită din spatele scenei m-a făcut de fapt să cred că balonul roșu va apărea și în holul casei mele. Realizarea m-a adus la prezenta mea iubire pentru psihologia și mecanismele din spatele filmelor horror.`,
+        paragraph2: `Dacă ai început să citești asta, cel mai probabil ai văzut și tu măcar un film horror până în prezent. În cazul în care încă n-ai făcut-o, cred că măcar de curiozitate o vei face după ce termini. Recomand să te uiți chiar la “It” sau minunățiile regizorului Ari Aster. Dacă, totuși, te-ai mai uitat, ți s-a mai întâmplat să dai automat sunetul mai încet la film când urma o secvență „scary”, încât să nu te sperii atât de tare? Păi și lucrul acesta are sensul lui.`,
+        paragraph3: `Coloana sonoră și muzica din filme sunt prezente ca să îmbunătățească impactul filmului asupra celui din fața ecranului, dar în cazul filmelor horror, e chiar mai mult de atât. După cum am explicat și mai sus, un film horror bun te face să sari din scaun, sau pur și simplu îți face pielea de găină pentru că e „dark and twisted’. În orice caz, de ce ar conta mai mult genul filmului în cât de prioritară i-ar fi calitatea? Hai să luăm un exemplu. În mod natural și biologic, asociem anumite sunete cu o reacție sau un sentiment. Râsul unui copil mic (sau unui adult dacă nu-ți plac copiii) îți induce la rândul său o senzație de bucurie, sau măcar una de natură pozitivă, pe când sunetul unui om plângând sau a unor unghii frecându-se de o tablă te aduc într-o stare inconfortabilă, neplăcută. De ce nu ar fi așa și în lumea filmelor de groază?`,
+        paragraph4: `Unul dintre cele mai comune efecte provocate de coloana sonoră în filme este cel de “jumpscare”. Acesta este gândit în felul următor: într-o scenă plină de suspans, unde protagonistul sau personajele, în general, sunt în pericol sau sunt urmăriți, muzica se oprește și încet, încet, toate efectele sonore se întrerup, iar persoana care vizionează filmul conștientizează ce se întâmplă în film, știind că ce urmează nu va fi foarte primitor și fericit. Apoi, brusc, urmează un sunet de intensitate mare, repulsiv. Efectul este unul șocant, creând o stare imprevizibilă și palpitantă. De asemenea, țipetele sunt ușor asociate cu teroarea, frica și durerea, încât instant devii din nou stresat și în alert la ce va urma. Această adrenalină provocată celor ce vizionează, ce te face să-ți simți sângele în vene, câștigă majoritatea iubitorilor de filme horror.`,
+        paragraph5: `Majoritatea. Sunt oameni care au o afinitate pentru alt gen de filme horror: cele psihologice. Treaba e aproape la fel: muzica este dată din ce în ce mai încet, sunetele ambientale devin din ce în ce mai sinistre, însă punctul culminant nu mai vine, ceea ce ajunge să te îngrijoreze. Constanta stare de incertitudine te pune într-un loc sensibil, devii mult mai atent la și cele mai mici detalii. Procesul în sine e mai complicat și variază de la film la film. În filmul Hereditary (2018), creatorul filmului a ales un sunet de „clic” care s-a auzit prima dată când unul dintre personaje a murit într-un mod înfiorător (scuze de spoiler, dar până la urmă e film horror, deci oricum moare cineva) și acel sunet se repeta de fiecare dată când se prezenta o scenă plină de suspans. În mod normal, dacă nu ai văzut filmul, un sunet de „clic” aiurea nu te-ar face să sari din scaun, dar din experiență personală și fără niciun fel de exagerare, sari din scaun când auzi a treia oară sunetul respectiv. Asta fiind dovada necesară să înțelegi mai bine cum și filmele horror psihologice te umplu de adrenalină.`,
+        paragraph6: `Cu timpul, tehnologia și industria evoluează și specialiștii găsesc tot felul de moduri aproape diabolice să te îngrozească cu doar niște sunete ambientale, însă la rădăcină, natura noastră ne face să reacționăm direct la sunetele prezente și faptul că regizorii profită de asta în filme precum The Shining (1980) și ne și face să ne placă mi se pare simplu fascinant.`,
+
+        author: "Maria Dejeu",
+        date: "12 Iulie, 2023"
+
+    },
+
+    {
+        id:5,
+        title: `În conversație cu Radu Băzăvan`,
+        category: 'Cultură',
+        color: '#CC704B',
+        time: '7 minute',
+        coverImg:'/assets/blogImages/cover/madi 12 iulie cover.jpeg',
+        landscapeImg:'assets/blogImages/landscape/madi 12 iulie landscape.jpeg',
+        description: `TIFF ca spectator e una, dar cum e TIFF ca regizor?`,
+        paragraph1: `Unless you live under a rock, ar trebui să-l știți pe Radu Băzăvan și cel puți să fi auzit despre faimosul său blog www.groparu.ro. Acesta, pe lângă scriitor și „tătic devotat”, este regizorul comediei „Usturoi”, lansată la TIFF în 5 iunie 2014. Mulți știm cum e TIFF-ul ca spectator, dar Radu Băzăvan ne va spune câte ceva despre experiența sa la festival ca regizor de film.`,
+        paragraph2: `1. Ai fost la vreun film fain TIFF-ul asta?`,
+        paragraph3: `M-a amuzat filmul proiectat în deschiderea TIFF (Northern comfort - Confort nordic, regia Hafsteinn Gunnar Sigurðsson), mai ales pentru că îmi plac comediile și am un cult pentru nordici și umorul lor. Au fost acolo câteva subtilități specifice pe care mă bucur că le-am prins, gen tradiția saunei, felul stângaci în care nordicii își exprimă emoțiile sau abordarea organizată și relaxată a vieții până când situațiile neprevăzute te lovesc în plin, moment în care ieșirea din zona de confort poate provoca situații extrem de amuzante.`,
+        paragraph4: `2. Ce înseamnă TIFF pentru tine?`,
+        paragraph5: `TIFF-ul aduce un suflu nou în tot orașul, parcă nu mai vezi oameni încruntați pe stradă. TIFF-ul aduce cu sine un aer boem, artistic, inspirațional. Parcă politețea și amabilitatea specifice clujenilor revin la ele acasă.`,
+        paragraph6: `3. Ce te-a determinat să te lansezi în industria filmelor? Cum ai trecut de la groparu.ro la „Radu Băzăvan, scenarist și producător de film?”`,
+        paragraph8: `A fost un pas, zic eu, firesc la momentul la care epuizasem potențialul blogului pe care-l păstoresc - www.groparu.ro. Simțeam că pot mai mult și îmi doream mai mult. Trecerea nu a fost ușoară, într-un fel scrii pe Internet pentru oameni care te citesc de mult și îți apreciază stilul, și în alt fel te arunci în a țese o poveste cât poți tu de frumoasă, de captivantă, de realistă și de convingătoare.`,
+        paragraph10: 'Trecerea nu a fost deloc ușoară, dar a venit cu seria ei de învățăminte și lecții - unele mai blânde, altele mai zgâlțâitoare.',
+        paragraph12: '4. Ți s-a părut că trecerea de la scris la producția unui întreg film a fost una naturala? ',
+        paragraph14: 'La urma urmei, o povestire trebuie să fie suficient de captivantă încât să poată fi spusă seara, la munte, în jurul unul foc de tabără, fără ca vreunul din ascultători să înceapă să moțăie. Dacă reușești să rezumi firul narativ la aceste condiții, restul este doar munca de șlefuire a poveștii ca să poată fi prezentată pe pânză.',
+        paragraph16: '5. Cum ți-a venit ideea pentru “Usturoi”? Random într-o zi de joi “hai să fac un film” sau un plan complicat, dar bine gândit? :))',
+        paragraph18: 'A fost o combinație - a început ca un capriciu, apoi când roțile au început să se miște a devenit o chestie asumată, din care nu mai puteam da înapoi. În 6 luni de zile scrisesem scenariul, făcusem casting-ul, făcusem location scouting, preproducția, încercasem să strâng fonduri - toate în timp ce aveam job de zi și copil mic (îmi place să cred despre mine că sunt un tătic dedicat). În câteva cuvinte, a fost o perioadă de câțiva ani în care nu am prea dormit! Judecând acum la rece, dacă aș fi lăsat să mai treacă niște timp și aș fi planificat mai temeinic pașii, ne-ar fi fost mai ușor întreg procesul, dar pe de altă parte m-aș fi lipsit de o cantitate bună de adrenalină care mi-a făcut viața mai palpitantă.',
+        paragraph20: '6. Povestește-ne puțin despre întreaga experiența ca producător al “Usturoi”. Ai întâmpinat probleme pe durata filmărilor?',
+        paragraph22: 'Practic, nici atunci când produci un film bine bugetat și bine planificat nu scapi de surprize. La noi evenimentele neplanificate s-au succedat lanț - ba s-a îmbolnăvit unul din actorii principali, ba lumea nu vedea efortul din spatele camerelor și atunci apăreau nemulțumiri, ba lumea s-a gândit că dacă turnăm un film atunci putem vărsa bani în stânga și-n dreapta... să vă mai spun că-n momentul în care a apărut Manelistul (Robert Kanalas), un om cât o căpiță, tatuat și fioros, dar un om cu inimă de aur, s-a lăsat o liniște extrem de suspectă în platou? Că nu a putut face rost de pistol pentru scena cu bâta de baseball pentru că prietenii lui care aveau pistoale de airsoft s-au gândit că sigur Robert vrea să jefuiască o casă de schimb valutar? Că uneori nu știam ce vom filma în ziua aceea pentru că vremea ne juca feste, și atunci improvizam cât puteam?',
+        paragraph24: '7. “Usturoi” a avut premiera in 2014 la TIFF. Cum și reușit sa-ți înscrii filmul la TIFF?',
+        paragraph26: 'Fiind prima producție cinematografică turnată în Cluj-Napoca după 1989, nu am fi putut concepe să nu fim difuzați la cele două festivaluri de film din acea perioadă de la noi din oraș - TIFF și Comedy Cluj. Mă bucur că organizatorii celor două festivaluri i-au văzut potențialul - la TIFF, la premiera intergalactică, circa 700 de oameni s-au înghesuit la Casa TIFF pe terasă, pe cca 250 de locuri, iar altă sută de oameni nu a mai avut loc să intre.',
+        paragraph28: '8. Te-ai gândit vreodată să-l duci în cinema-uri?',
+        paragraph30: 'Pe segmentul de film românesc, am fost lideri de audiență, cu peste 17000 de bilete vândute în cinema, cu 7 săli pline la cinema Florin Piersic din Cluj (record niciodată depășit de atunci), într-o perioadă în care filme cu bugete serioase, sponsorizate de Consiliul Național al Cinematografiei și cu parteneri mai mulți decât am avut noi actori, vindeau 3-4000 de bilete pe an. Într-un final, am fost detronați la final de an, dar tot ne-am înscris într-un foarte onorabil loc 5 din 16 în box office-ul românesc.',
+        paragraph32: '9. După lansarea filmului, reacțiile din partea publicului au fost cele așteptate? Le-a plăcut filmul?',
+        paragraph34: 'Reacțiile au fost covârșitor favorabile: industria românească de profil se axase în perioada aceea pe filme de festival, nu de public. În România nu se mai produsese o comedie de ani buni, iar producțiile cu adevărat ardelenești, care să te facă să râzi, rămăseseră la nivelul francizei Ardelenii (”Pruncul, petrolul și ardelenii”, ”Profetul, aurul și ardelenii”, ”Artista, dolarii și ardelenii”). Practic, am acoperit o nișă neexploatată de mult, am stimulat patriotismul local și aprecierea de care noi, ardelenii, ne bucurăm în patrie, am avut fericirea de a aduce pe ecran un film care să nu fie vulgar, care să fie optimist, vesel, inocent.',
+        paragraph36: 'Încă mai ridic sprâncene și mai provoc zâmbete atunci când oamenii aud că am fost implicat în Usturoi - alături de regizorul Lucian Alexandrescu, actrițele Elena Ivanca și Ileana Negru, tezaurul uman viu Mircea Groza, actorul Ioan Selesi, invitații speciali Daniela Stoica, Nicu Varga, Tibi Covaci, bloggerii Alina Crâncău, Răzvan Dragoș, Gabriel Oană, Vlad Cucu, Misu Călian, masterchef-ul Adi Hădean, familia Stoica cu taraful, și mai ales copiii noștri extraordinari - Sebastian Topan și Darius Stoica, o adevărată binecuvântare să-i avem între noi!',
+        paragraph38: '10. Consideri că, uitându-te retrospectiv la întreaga experiența “Usturoi”, a fost mai important drumul și procesul sau rezultatul?',
+        paragraph40: 'Ambele au avut seria lor de învățăminte. Nu poți avea rezultat fără drumul acela lung, sinuos și greu, în care uneori ți se pare că inclusiv cei apropiați, cei care trag alături de tine, se opresc și încep să te tragă înapoi.',
+        paragraph42: 'Nu te opri! Orice ai face, nu te opri. Tendința de a lăsa totul baltă când mai ai doar 1% sau 2% este foarte mare, dar lecțiile se lasă descoperite și după final. La 11 ani de la începutul filmărilor, încă descopăr lecții despre mine, despre echipa noastră și despre întreg proiectul.',
+        paragraph44: '11. În urma “Usturoi” ai învățat ceva nou?',
+        paragraph46: 'Dacă ar fi să rezum întreaga experiență, ar suna cam așa: în viață poți face aproape orice dorești dacă depui suficient efort. Ești pregătit să o faci? Ești pregătit ca lucrurile să nu iasă așa cum ți-ai dorit, ci mai bine sau mai rău? Ești pregătit să te supui criticilor de orice fel și, mai ales, adulației publicului fără să-ți pierzi sufletul?',
+        paragraph48: '12. Dacă mai dorești să ne spui ceva...',
+        paragraph50: 'Nu stați! Odihna este cel mai mare dușman. Mintea ne merge nonstop, ajutați-vă corpurile să o urmeze și creați lucruri frumoase! Nu vă fie frică, în viață regretăm mai degrabă lucrurile nefăcute decât cele realizate.',
+        paragraph52: 'Nu stați, nu rămâneți pe loc! Nu stați...',
+
+        author: "Madi Blaga",
+        date: "12 Iulie, 2023"
+
+    },
+    
+    {
+        id:6,
+        title: `Încercuit în AperiTIFF`,
+        category: 'Cultură',
+        color: '#CC704B',
+        time: '7 minute',
+        coverImg:'assets/blogImages/cover/comun 12 iulie cover.jpeg',
+        landscapeImg:'/assets/blogImages/landscape/comun 12 iulie landscape.jpeg',
+        description: `Filme care ne-au sărit in ochi anul acesta la TIFF`,
+        paragraph1: `Mulți suntem consumatori de TIFF și în mijlocul lui iunie devorăm film după film. De asemenea, mulți dintre noi primim on a daily basis notificarea „Storage Full”, nepermițând-ne astfel să ne descărcăm aplicația festivalului pe telefon, deci suntem automat obligați să mâzgălim și să fircălim în AperiTIFF filmele must see care ne-au captat atenția. Aveți aici doar câteva dintre filmele încercuite de noi anul acesta și părerile noastre brutal de sincere despre ele.`,
+        paragraph2: `BOSS - Bogdan Mirică`,
+        paragraph3: `Am fost la acest film ca voluntar la subtitrări și (pe lângă faptul că am aceeași părere despre el ca profesorul meu de informatică, Manu), mi se pare că Bogdan Mirică reușește să facă cele mai bune thrillere legate de crime/mafie din România. Mai mult, cred că dacă filmul era făcut în străinătate și i se aloca mai mult buget, cu siguranță era un blockbuster care ar fi apărut în multe cinema-uri.`,
+        paragraph4: `Ca să fiu sincer, povestea filmului nu m-a impresionat foarte mult, însă jocul actoricesc impecabil a lui Laurențiu Bănescu (Emilian din Umbre), împreună cu cinematografia și cu storytelling-ul regizorului (după cum a spus și în Q&A, dorește să lase publicul să pună cap la cap întâmplările, în loc să arate totul de la început) fac ca acest nou lungmetraj românesc să fie unul dintre filmele mele preferate de la TIFF 2023. Also, mă bucur mult că am avut ocazia de a vedea cast-ul filmului în sala de cinema, oameni pe care îi apreciez, felicit și cărora le doresc mult succes în continuare.`,
+        paragraph5: `-Tudor Pop`,
+        paragraph6: `Asteroid City - Wess Anderson`,
+        paragraph8: `M-am bucurat tare când am reușit să-mi iau bilet pentru filmul Asteroid City, dat fiind faptul că era ultimul prezentat de TIFF, creat de un regizor bine cunoscut și per ansamblu un film mult așteptat.`,
+        paragraph10: 'Asteroid City este un film, cu siguranță, ușor recunoscut ca unul dintre filmele celebrului Wes Anderson, mai ales după cinematografie și, în special, paleta de culori în care acest este nuanțat. Este un film care pune pata în special pe o idee, poate preluată din Noul val francez, cea de a face persoana din fața ecranului conștientă de faptul că vizionează un film, cu actori și nu cu personaje reale.',
+        paragraph12: 'O familie nefericită care a făcut pană la mașină, un grup de oameni de știință, o actriță și un grup de elevi care învață despre astronomie se adună în jurul unui crater de meteorit misterios la ceremonia de premiere a unor tineri inventatori, însă lucrurile iau o întorsătură bizară când un extraterestru coboară din nava sa și fură prețiosul meteorit. Cel mai probabil nu ați înțeles nimic din acțiunea înșiruită mai sus, dar probabil vă așteptați la așa ceva, vorbind de un film al acestui regizor.',
+        paragraph14: 'Partea mea preferată din film, cum am menționat și mai sus, este ideea că filmul a fost filmat într-un film prezent în film (promit că are mai mult sens dacă îl vizionați). Ca să explic mai elaborat, personajele filmului sunt actori într-un serial ficțional, bazat în „Asteroid City”.',
+        paragraph16: 'Dacă v-am indus în ceață destul (sau prea puțin), recomand să vizionați și voi acest film, plin de umorul întortocheat al regizorului și nuanțele gălbenii prezente în frumoasa cinematografie a creației acestuia.',
+        paragraph18: '-Maria Dejeu',
+        paragraph20: 'Le Mepris - Jean-Luc Godard ',
+        paragraph22: 'Regizat de nimeni altul decât Godard, „Le Mepris” este un film clasic, francez, care are loc în anii 60’.',
+        paragraph24: 'Personajele principale sunt Camille și Paul Javal, un cuplu căsătorit, care pe parcursul filmului își pierd sentimentele unul pentru celălalt. Nu doar atât, dar se evidențiază și efectele negative ale comercializării din acea perioadă, prin faptul că Javal, având profesia de scenarist, este îndemnat de către Jeremy Prokosch, un regizor american, să preia producția unui film. Într-un final, acesta acceptă, fiind forțat de bugetul mic oferit pieselor de teatru din vremea aceea. Camille își pierde respectul față de soțul său și îi mărturisește faptul că nu îl mai iubește.',
+        paragraph26: 'Pe tot parcursul filmului putem observa acest conflict continuu bazat pe câștig financiar și demnitate.',
+        paragraph28: 'Consider că „Le Mepris” este unul din cele mai bune filme ale lui Godard, având o estetică plăcută și caldă, dar totuși adresând un subiect relevant.',
+        paragraph30: '-Maia Hermann',
+        paragraph32: 'The Earth is a sinful song - Rauni Mollberg',
+        paragraph34: '„The earth is a sinful song” e o ilustrare autentică a unei comunități izolate din Finlanda rurală, precedând cel de-Al Doilea Război Mondial. Cu toate că ecranizarea țintește spre un portret colectiv, se evidențiază în mod excepțional perspectiva unei tinere care se confruntă cu prejudecăți, violență și abuz. Nevoia de apartenență și conformarea la norme sociale într-o etapă semnificativă a vieții conduc către consecințe ireversibile, fapt cu care publicul empatizează indiferent de vârstă și origini. Interacțiunea umană surprinsă într-un context în care limitele moralității sunt inexistente și în care supraviețuirea e un prim scop este o tematică recurentă și în numeroase alte filme din aceeași perioadă. Totuși, ceea ce îi conferă o notă de unicitate sunt peisajele uluitoare care dau un cu totul alt simbolism conexiunii dintre oameni și natură. În ansamblu, filmul expune o viziune cât se poate de realistă a spațiului rural scandinav și este absolut spectaculos din punct de vedere vizual.',
+        paragraph36: '-Ema Calian',
+        paragraph38: 'Apolonia, Apolonia - Lea Glob',
+        paragraph40: 'Apolonia Sokol e fiica unor actori din Parisul anilor ’90. Ea a crescut în fața aparatului de filmat, întrucât părinții ei au surprins pe film momente importante din viața fetei lor, încă de când aceasta s-a născut. Când Lea Glob, artista din spatele camerei acestui documentar, o întâlnește pe Apolonia în 2009, ea e fascinată de viața acesteia și de naturalețea cu care prestează în fața unei camere, într-un mod dezinvolt, dar, totuși, artistic. Documentarul urmărește viața Apoloniei în următorii 13 ani, evidențiind greutățile prin care trece o artistă feministă într-o lume dominată de critici de artă masculini, principiile creativității individuale și realitatea economică a bohemianism-ului milenial.',
+        paragraph42: 'Teatrul în care Apolonia a copilărit și care reprezintă a doua ei casă a devenit un spațiu al dinamismului, acolo strângându-se o comunitate de artiști și activiști, printre care o refugiată feministă ucraineană – Oksana Shachko – cu care protagonista are o relație destul de ambigue pentru spectatori – nu e clar dacă sunt prietene sau iubite, și nici nu se pune accent pe asta, întrucât filmul se concentrează pe latura emoțională a relației dintre cele două și a impactului acesteia asupra creațiilor Apoloniei. Dinamismul se regăsește și în arta sa, care devine tot mai apreciată, tocmai datorită faptului că e plină de viață și culoare. Arta ei progresează datorită diversității și energiei vieții ei sociale de acasă.',
+        paragraph44: 'Când o întâmplare tragică distruge acest echilibru și oamenii din comunitatea formată în acel teatru se separă fiecare pe propria cale, creațiile Apoloniei au de suferit, acest fapt aducându-i remarci misogine din partea profesorului de la facultate. Totuși, cariera ei pare să ia o întorsătură bună, atunci când un colecționar înstărit o angajează să picteze 10 canvasuri pe lună, mergând pe principiul „Why only buy the art when it’s so much cheaper to buy the artist?”. Însă, această viziune industrializată asupra artei o face pe Apolonia să se piardă pe sine însăși. În continuare, filmul urmărește încercările ei de a se regăsi, de a pune pe hârtie toată complexitatea sa interioară și de a transmite mesaje feministe privitorilor. De asemenea, Lea Glob face o treabă impresionantă în a surprinde, din viața personală a artistei, faptul că unele persoane pe care le întâlnești în viață nu sunt menite să fie lângă tine până la final, ci, mai degrabă, au rolul de a pune amprenta pe modul în care percepi lumea. Plecarea Oksanei îi afectează stilul artistic Apoloniei, făcându-l unic, într-un mod dureros, empatic și curajos.',
+        paragraph46: 'Interpretarea artei altor oameni ne unește și ne face să simțim că suntem parte dintr-un întreg. Urmărind procesul artistic al Apoloniei de-a lungul mai multor ani de luptă interioară și redescoperire de sine prin ochii regizorului Lea Glob, acest documentar difuzat la a 22-a ediție TIFF a avut parte de o mare apreciere din partea publicului. Personal, simt că e unul dintre cele mai valoroase filme artistice pe care le-am văzut și mi-a colorat experiența TIFF din acest an. Mă bucur că am încercuit acest titlu în AperiTIFF.',
+        paragraph48: '-Mălina Bochiș',
+
+        author: "Tudor Pop, Maria Dejeu, Maia Hermann, Ema Călian și Mălina Bochiș",
+        date: "12 Iulie, 2023"
+
+    },
+
+    
+    {
+        id:7,
         title: `Voluntariatul – manifestare a altruismului?`,
         category: 'Social',
         color: '#A19664',
-        time: '10 minute',
+        time: '7 minute',
         coverImg:'/assets/blogImages/cover/volunteering.jpg',
         landscapeImg:'/assets/blogImages/landscape/volunteering.jpg',
         description: `O sferă comună de interes în lumea tinerilor de liceu și facultate este participarea în activități de voluntariat. Fie că e vorba de anumite cluburi cu o temă de interes specifică, sau pur și simplu festivaluri, concerte și maratoane, organizatorii nu duc lipsă de tineri energici, plini de viață și dornici să ajute, să se infiltreze în comunitate și să cunoască oameni noi.`,
@@ -106,7 +214,7 @@ export const blogList = [
     },
 
     {
-        id:5,
+        id:8,
         title: `Recenzie carte - “Ca și cum nimic nu s-ar fi întâmplat”`,
         category: 'Cultură',
         color: '#CC704B',
@@ -125,7 +233,7 @@ export const blogList = [
     },
 
     {
-        id:6,
+        id:9,
         title: `În conversație cu noua generație de artiști`,
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -207,7 +315,7 @@ export const blogList = [
     },
 
     {
-        id:7,
+        id:10,
         title: `Cum a fost la "Poveste la film"`,
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -228,7 +336,7 @@ export const blogList = [
     },
 
     {
-        id:8,
+        id:11,
         title: `Despre "Aici Improvizăm"`,
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -248,7 +356,7 @@ export const blogList = [
     },
 
     {
-        id:9,
+        id:12,
         title: "Rujul și privirea masculină",
         category: 'Social',
         color: '#A19664',
@@ -278,7 +386,7 @@ export const blogList = [
     },
 
     {
-        id:10,
+        id:13,
         title: `Prima mea iubire muzicală.`,
         category: 'Cultură',
         color: '#CC704B',
@@ -307,7 +415,7 @@ export const blogList = [
     },
 
     {
-        id:11,
+        id:14,
         title: "STEM vs Arts",
         category: 'Social',
         color: '#A19664',
@@ -330,7 +438,7 @@ export const blogList = [
 
     {
 
-        id:12,
+        id:15,
         title: 'Nu sunt pasionata de nimic',
         category: 'Social',
         color: '#A19664',
@@ -354,7 +462,7 @@ export const blogList = [
     },
 
     {
-        id:13,
+        id:16,
         title: `Fallen Angels (1995) - o experiență cinematografică`,
         category: 'Cultură',
         color: '#CC704B',
@@ -375,7 +483,7 @@ export const blogList = [
     },
 
     {
-        id:14,
+        id:17,
         title: `Woodstock '99`,
         category: 'Cultură',
         color: '#CC704B',
@@ -400,7 +508,7 @@ export const blogList = [
     },
 
     {
-        id: 15,
+        id: 18,
         title: "Cafeluța de dimineață",
         category: "Social",
         color: '#A19664',
@@ -421,7 +529,7 @@ export const blogList = [
     },
 
     {
-        id:16,
+        id:19,
         title: 'Globuri și Copii ',
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -442,7 +550,7 @@ export const blogList = [
     },
 
     {
-        id:17,
+        id:20,
         title: 'În conversație cu noua generație de poeți',
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -484,7 +592,7 @@ export const blogList = [
     },
 
     {
-        id:18,
+        id:21,
         title: 'Despre Pălăvrăgeală Poetică',
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -503,7 +611,7 @@ export const blogList = [
     },
     
     {
-        id:19,
+        id:22,
         title: 'Taylor Swift',
         category: 'Cultură',
         color: '#CC704B',
@@ -526,7 +634,7 @@ export const blogList = [
     },
 
     {
-        id:20,
+        id:23,
         title: 'Odd Future- o scurtă istorie',
         category: 'Cultură',
         color: '#CC704B',
@@ -547,7 +655,7 @@ export const blogList = [
     },
     
     {
-        id: 21,
+        id: 24,
         title: "Winter fashion",
         category: 'Cultură',
         color: '#CC704B',
@@ -568,7 +676,7 @@ export const blogList = [
     },
 
     {
-        id: 22,
+        id: 25,
         title: 'Recenzie carte - "O altă țară"',
         subtitle: "Gata să izbucnească în muzică sau în flăcări sau o revelație",
         category: 'Cultură',
@@ -585,7 +693,7 @@ export const blogList = [
         date: "30 Noiembrie, 2022"
     },
     {
-        id: 23,
+        id: 26,
         title: "Autodescoperire sau autodistrugere?",
         category: "Social",
         color: '#A19664',
@@ -604,7 +712,7 @@ export const blogList = [
     },
 
     {
-        id:24,
+        id:27,
         title: "Muzică în căști cât tocești la bio",
         category: "Social",
         color: '#A19664',
@@ -624,7 +732,7 @@ export const blogList = [
     },
 
     {
-        id: 25,
+        id: 28,
         title: "Validarea academică",
         category: 'Social',
         color: '#A19664',
@@ -644,7 +752,7 @@ export const blogList = [
     },
 
     {
-        id: 26,
+        id: 29,
         title: 'Recenzie carte - "O viață măruntă"',
         category: 'Cultură',
         color: '#CC704B',
@@ -665,7 +773,7 @@ export const blogList = [
     },
 
     {
-        id: 27,
+        id: 30,
         title: "Despre Graffiti Drop",
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -701,7 +809,7 @@ export const blogList = [
     },
 
     {
-        id: 28,
+        id: 31,
         title: "Interact Transilvania --- Începuturi",
         category: 'Interact Transilvania',
         color: '#3A8891',
