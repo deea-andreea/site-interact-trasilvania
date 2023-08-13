@@ -78,7 +78,7 @@ export const blogList = [
     
     
     {
-        id:1,
+        id:4,
         title: `Dacă am încetini ritmul vieții...`,
         category: 'Social',
         color: '#A19664',
@@ -101,7 +101,7 @@ export const blogList = [
     },
 
     {
-        id:2,
+        id:5,
         title: `Recenzie carte - “Căutând-o pe Alaska”`,
         category: 'Cultură',
         color: '#CC704B',
@@ -127,7 +127,7 @@ export const blogList = [
     },
     
     {
-        id:3,
+        id:6,
         title: `Recenzie carte - “Camera albastră”`,
         category: 'Cultură',
         color: '#CC704B',
@@ -154,7 +154,7 @@ export const blogList = [
 
 
     {
-        id:4,
+        id:7,
         title: `M-ar mai speria filmele horror dacă le-aș da pe mut?`,
         category: 'Cultură',
         color: '#CC704B',
@@ -175,7 +175,7 @@ export const blogList = [
     },
 
     {
-        id:5,
+        id:8,
         title: `În conversație cu Radu Băzăvan`,
         category: 'Cultură',
         color: '#CC704B',
@@ -219,7 +219,7 @@ export const blogList = [
     },
     
     {
-        id:6,
+        id:9,
         title: `Încercuit în AperiTIFF`,
         category: 'Cultură',
         color: '#CC704B',
@@ -262,7 +262,7 @@ export const blogList = [
 
     
     {
-        id:7,
+        id:10,
         title: `Voluntariatul – manifestare a altruismului?`,
         category: 'Social',
         color: '#A19664',
@@ -292,7 +292,7 @@ export const blogList = [
     },
 
     {
-        id:8,
+        id:11,
         title: `Recenzie carte - “Ca și cum nimic nu s-ar fi întâmplat”`,
         category: 'Cultură',
         color: '#CC704B',
@@ -311,7 +311,7 @@ export const blogList = [
     },
 
     {
-        id:9,
+        id:12,
         title: `În conversație cu noua generație de artiști`,
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -393,7 +393,7 @@ export const blogList = [
     },
 
     {
-        id:10,
+        id:13,
         title: `Cum a fost la "Poveste la film"`,
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -414,7 +414,7 @@ export const blogList = [
     },
 
     {
-        id:11,
+        id:14,
         title: `Despre "Aici Improvizăm"`,
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -434,7 +434,7 @@ export const blogList = [
     },
 
     {
-        id:12,
+        id:15,
         title: "Rujul și privirea masculină",
         category: 'Social',
         color: '#A19664',
@@ -464,7 +464,7 @@ export const blogList = [
     },
 
     {
-        id:13,
+        id:16,
         title: `Prima mea iubire muzicală.`,
         category: 'Cultură',
         color: '#CC704B',
@@ -493,7 +493,7 @@ export const blogList = [
     },
 
     {
-        id:14,
+        id:17,
         title: "STEM vs Arts",
         category: 'Social',
         color: '#A19664',
@@ -516,7 +516,7 @@ export const blogList = [
 
     {
 
-        id:15,
+        id:18,
         title: 'Nu sunt pasionata de nimic',
         category: 'Social',
         color: '#A19664',
@@ -540,7 +540,7 @@ export const blogList = [
     },
 
     {
-        id:16,
+        id:19,
         title: `Fallen Angels (1995) - o experiență cinematografică`,
         category: 'Cultură',
         color: '#CC704B',
@@ -561,7 +561,7 @@ export const blogList = [
     },
 
     {
-        id:17,
+        id:20,
         title: `Woodstock '99`,
         category: 'Cultură',
         color: '#CC704B',
@@ -586,7 +586,7 @@ export const blogList = [
     },
 
     {
-        id: 18,
+        id: 21,
         title: "Cafeluța de dimineață",
         category: "Social",
         color: '#A19664',
@@ -607,7 +607,7 @@ export const blogList = [
     },
 
     {
-        id:19,
+        id:22,
         title: 'Globuri și Copii ',
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -628,7 +628,7 @@ export const blogList = [
     },
 
     {
-        id:20,
+        id:23,
         title: 'În conversație cu noua generație de poeți',
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -670,7 +670,7 @@ export const blogList = [
     },
 
     {
-        id:21,
+        id:24,
         title: 'Despre Pălăvrăgeală Poetică',
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -689,7 +689,7 @@ export const blogList = [
     },
     
     {
-        id:22,
+        id:25,
         title: 'Taylor Swift',
         category: 'Cultură',
         color: '#CC704B',
@@ -712,7 +712,7 @@ export const blogList = [
     },
 
     {
-        id:23,
+        id:26,
         title: 'Odd Future- o scurtă istorie',
         category: 'Cultură',
         color: '#CC704B',
@@ -733,7 +733,7 @@ export const blogList = [
     },
     
     {
-        id: 24,
+        id: 27,
         title: "Winter fashion",
         category: 'Cultură',
         color: '#CC704B',
@@ -754,7 +754,7 @@ export const blogList = [
     },
 
     {
-        id: 25,
+        id: 28,
         title: 'Recenzie carte - "O altă țară"',
         subtitle: "Gata să izbucnească în muzică sau în flăcări sau o revelație",
         category: 'Cultură',
@@ -771,7 +771,7 @@ export const blogList = [
         date: "30 Noiembrie, 2022"
     },
     {
-        id: 26,
+        id: 29,
         title: "Autodescoperire sau autodistrugere?",
         category: "Social",
         color: '#A19664',
@@ -790,7 +790,7 @@ export const blogList = [
     },
 
     {
-        id:27,
+        id:30,
         title: "Muzică în căști cât tocești la bio",
         category: "Social",
         color: '#A19664',
@@ -810,7 +810,7 @@ export const blogList = [
     },
 
     {
-        id: 28,
+        id: 31,
         title: "Validarea academică",
         category: 'Social',
         color: '#A19664',
@@ -830,7 +830,7 @@ export const blogList = [
     },
 
     {
-        id: 29,
+        id: 32,
         title: 'Recenzie carte - "O viață măruntă"',
         category: 'Cultură',
         color: '#CC704B',
@@ -851,7 +851,7 @@ export const blogList = [
     },
 
     {
-        id: 30,
+        id: 33,
         title: "Despre Graffiti Drop",
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -887,7 +887,7 @@ export const blogList = [
     },
 
     {
-        id: 31,
+        id: 34,
         title: "Interact Transilvania --- Începuturi",
         category: 'Interact Transilvania',
         color: '#3A8891',
