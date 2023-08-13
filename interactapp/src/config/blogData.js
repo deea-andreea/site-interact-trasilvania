@@ -1,6 +1,84 @@
 export const blogList = [
     {
         id:1,
+        title: `Grădina lui Monet`,
+        author: "Sophie Popa",
+        date: "13 August, 2023",
+
+        category: 'Interact Transilvania',
+        color: '#3A8891',
+        time: '3 minute',
+
+        coverImg:'/assets/blogImages/cover/sophie 13 aug cover.jpeg',
+        landscapeImg:'/assets/blogImages/landscape/sophie 13 aug landscape.jpeg',
+
+        description: `Unde pasiunea pentru grădinărit și cea pentru pictură de intersectează, îl găsim pe Claude Monet.`,
+        
+        paragraph1: `Specialitatea celebrului pictor Claude Monet când vine vorba de numeroasele sale lucrări este înfățișarea grădinilor, astfel cele două mari pasiuni ale sale, arta picturii și cea a grădinăritului, își găsesc un punct de intersecție.`,
+        paragraph2: `Având în vedere cele două mari interese ale pictorului, după realizarea câtorva tablouri inspirate de peisaje ale unor diverse grădini și după mutarea acestuia împreună cu soția sa și cei opt copii într-un cătun numit Giverny, din apropierea Vernonului, Monet profită de ocazia de a-și pune la punct propria grădină. Astfel, cumpără, nu numai terenul unde urma să fie propria casă, ci și terenul învecinat, pentru a avea mai mult spațiu.`,
+        paragraph3: `„Clos Normand” este prima dintre grădinile pictorului și este cea din fața casei sale.`,
+        paragraph4: `Pentru a diversifica speciile de flori din grădină, Monet a construit o seră. Acesta a închiriat, de asemenea, o grădină separată pentru a continua să crească fructe și legume. Dorința sa era să își păstreze grădinile proprii ca inspirație, spațiu de creație, dedicat exclusiv florilor.`,
+        paragraph5: `Faimosul lac cu nuferi reprezentat în „Grădina de apă”, este localizat și el în grădina artistului. Terenul său era travesat de pârâul Ru, diversiune a râului Epte, iar iazul este săpat de însuși Monet, cu aprobarea autorităților. Fiind pasionat de cultura japoneză, pictorul a construit peste lacul cu nuferi un pod japonez, inspirat din aceasta.`,
+        paragraph6: `Claude Monet s-a dedicat complet amenajării și menținerii proprietății sale, fiind atent la toate detaliile, precum cromatica și armonia formelor.`,
+        paragraph8: `Marile eforturi ale artistului au fost și încă sunt apreciate de către fanii impresionismului de pretutindeni. Grădina din Giverny a marelui pictor Claude Monet este acum o atracție turistică și poate fi vizitată.`,
+    },
+
+    {
+        id:2,
+        title: `Claude Monet, tatăl impresionismului`,
+        author: "Maria Dejeu",
+        date: "13 August, 2023",
+
+        category: 'Interact Transilvania',
+        color: '#3A8891',
+        time: '3 minute',
+
+        coverImg:'/assets/blogImages/cover/maria dejeu 13 aug cover.jpeg',
+        landscapeImg:'/assets/blogImages/landscape/maria dejeu 13 aug landscape.jpeg',
+
+        description: `Scurtă fișă biografică a tatălui curentului impresionism. Copilăria, viața de artist, dar și niște vorbe despre picturile sale.`,
+        
+        paragraph1: `Oscar-Claude Monet a fost născut pe data de 14 noiembrie 1840 în capitala Franței și a decedat pe data de 5 decembrie 1926, la vârsta de 86 ani. De-a lungul vieții sale, adesea cunoscut ca tatăl impresionismului, Monet a fost un pictor francez prolific, unul dintre primii artiști care a ieșit din tiparul rafinat al neoclasicismului, confruntându-se cu criticii și respingerile nesfârșite pentru incursiunea sa într-un stil mai expresionist.`,
+        paragraph2: `De la bun început, Monet a fost sigur pe ideile sale, atât de mult încât, nu doar că a refuzat ideea unei școli academice tradiționale, refuzând să se înscrie la Școala de Arte Frumoase din Paris, dar a și ales neconvenționala și mai prost văzuta Academie Elvețiană. A fost unul dintre elevii lui Charles Gleyre, unde i-a cunoscut pe Renoir, Sisley și Bazille, alături de care va ajunge să lucreze în apropierea Parisului, experimentând laturile vieții boeme.`,
+        paragraph3: `Celebra metodă a lui Monet de a picta mai multe lucrări în aceeași temă, condiția vremii și a luminii fiind singurele schimbări, nu a devenit complet recunoscută până în anii 1890. „Haystacks” a fost prima serie prezentată de Monet. În 1891, Galeria Durand-Ruel a avut ca exponate 15 picturi din această serie. Aceste lucrări de artă au avut un mare impact asupra carierei pictorului, dar și a istoriei artei franceze.`,
+        paragraph4: `În final, iată câteva informații interesante despre celebrul pictor Claude Monet`,
+        paragraph5: `-	În timpul copilăriei sale, Monet era lăudat pentru talentul său în a realiza caricaturi, adeseori a profesorilor săi în primii ani de școală.`,
+        paragraph6: `-	Monet s-a inspirat mult din arta japoneză, mai ales când a pictat seria „Water Lilies”.`,
+        paragraph8: `-	A creat peste 250 de picturi „Water Lilies” pe parcursul ultimelor trei decenii ale vieții sale.`,
+        paragraph10: `-	La vârsta de 72 de ani, Claude Monet a fost diagnosticat cu cataractă. Acest fapt i-a influențat paleta de culori cu care își picta lucrările. Din originala sa preferință în a-și păstra nuanțele de albastru și verde, condiția vizuală l-a îndrumat spre culorile mai calde precum roșu și nuanțe gălbenii. `
+    },
+
+    {
+        id:3,
+        title: `Impresionismul`,
+        author: "Alexandra Sălăjan",
+        date: "13 August, 2023",
+
+        category: 'Interact Transilvania',
+        color: '#3A8891',
+        time: '3 minute',
+
+        coverImg:'/assets/blogImages/cover/alexandra salajan 13 aug cover.jpeg',
+        landscapeImg:'/assets/blogImages/landscape/alexandra salajan 13 aug landscape.jpeg',
+
+        description: `Culori ce descriu lumea înconjurătoare în nuanțele calde, dar nerealiste.`,
+        
+        paragraph1: `Impresionismul a luat naștere în Franța între secolele XIX și XX. Curentul se bazează pe dorința artistului de a cuprinde pe pânza sa un moment în timp real, cu culorile influențate de diferite momente ale zilei. Una dintre cele mai importante caracteristici ale curentului este lumina surprinsă la apus sau răsărit. Nu se folosește deloc culoarea negru și nu se amestecă culorile între ele. Impresionismul pur evită folosirea negrului, culorile închise fiind obținute din culori contrastante. Pentru realizarea luminii pe o pânză, artiștii au avut nevoie de mai multe zile pentru a putea finaliza o operă.`,
+        paragraph7: `Impresionismul în pictură`,
+        paragraph8: `Curentul a fost reprezentat de mai mulți artiști din Franța, Spania și Anglia, printre  care se numără: Diego Velazquez, Francisco Goya, William Turner, John Constable, Jean Baptiste Camille Corot precum și Charles-Francois Daubigny. Însă în anul 1863 Edouard Manet pictează opera care aduce un mare scandal, pictura intitulată Olympia. Piesa de arta o reprezenta pe zeița Venus, numită în greacă și Afrodita, sub chip de metresă. Cu toate ca acesta pictură a adus un mare scandal în lumea artei, aceasta fiind realizată înaintea perioadei impresioniste, se pot observa niște trăsături specifice curentului. Aceasta operă se poate găsi și poate fi admirată și acum la Musee d’Orsay în Paris.`,
+        paragraph10: `După terminarea războiului franco-german din 1870, opera lui William Turner îi inspiră pe Monet, Pissarro și Sisley în călătoria acestora la Londra, revoluționându-le tehnica pentru următoarele lucrări.`,
+        paragraph12: `În anul 1874, Société anonyme des peintres, des sculpteurs et des graveurs ("Societatea anonimă a pictorilor, sculptorilor și graficienilor"), alcătuită din pictorii Pissarro, Monet, Sisley, Degas, Renoir, Cezanne și Berthe Morisot, organizează o expoziție de artă unde Monet aduce, o pictură reprezentând un peisaj marin din Le Havre. Puțin știa pictorul că peste ani de zile, aceasta urma să ajungă una dintre cele mai cunoscute lucrări de ale sale.`,
+        paragraph14: `Lumea conștientizează nașterea acestui curent și o percepe ca pe cea mai importantă revoluție artistică a secolului al XIX-lea abia în 1903, după moartea lui Camille Pissaro, un artist canonic al impresionismului.`,
+        paragraph15: `Impresionismul în muzică`,
+        paragraph16: `Persoana care a reușit să aducă impresionismul în arta muzicii este Claude Achille Debussy. Acesta dorește să transmită lumina și culorile impresionismului prin muzică. Pentru compunerea operelor sale, Debussy se concentrează pe propriile sentimente și pe stările sale sufletești. Compozitorul inspiră prin munca sa, operele multor artiști de pretutindeni, refuzând, totuși, să-și atribuie titlul de prim compozitor al muzicii impresioniste.`,
+        paragraph17: `Impresionismul în literatură`,
+        paragraph18: `Acest curent artistic apare si în literatură, fiind întâlnit pentru prima dată în Germania, ca reacție împotriva naturalismului. La început, oemenii au fost sceptici și au considerat impresionismul „nerealist și exagerat.” Acest curent în literatură a avut ca scop principal experimarea subiectivă, întânindu-se deseori în poezia lirică, proza scurtă și piese dramatice. Impresionismul din operele germane seamană mult cu simbolismul înâlnit în Franța. `
+    },
+    
+    
+    
+    {
+        id:1,
         title: `Dacă am încetini ritmul vieții...`,
         category: 'Social',
         color: '#A19664',
