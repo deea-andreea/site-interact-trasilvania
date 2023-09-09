@@ -1,6 +1,111 @@
 export const blogList = [
+    
     {
         id:1,
+        title: `Muzica din generație în generație`,
+        author: "Sophie Popa",
+        date: "8 septembrie, 2023",
+
+        category: 'Social',
+        color: '#A19664',
+        time: '2 minute',
+
+        coverImg:'/assets/blogImages/cover/Sophie Popa - 8 sept - cover.jpeg',
+        landscapeImg:'/assets/blogImages/landscape/Sophie Popa - 8 sept - landscape.jpeg',
+
+        description: `Muzica. Genul de pasiune care nu moare de pe azi pe mâine. ba chiar o moștenesc de la bunicul`,
+        
+        paragraph1: `Un lucru de mare valoare pentru mine este muzica. Pot spune chiar că mi-ar fi greu să trăiesc o zi fără ea, iar dacă aș reuși, acea zi nu ar fi una bună.`,
+        paragraph2: `Îmi încep ziua alegând un disc pentru pick-up, albumul pe care va urma să îl ascult pe parcursul rutinei mele de dimineață. Bunicul ar fi mândru de mine, de faptul că am ales să-i urmez acest obicei. Cred că de la el moștenesc iubirea mea eternă pentru muzică. De la el moștenesc multe caracteristici. Era un om înțelept. Când descoperea o nouă melodie, asculta versurile. Îi plăcea ca orice piesă cu o linie melodică frumoasă să aibă și versuri bine scrise.`,
+        paragraph3: `Când ies din casă, sunt slabe șanse să fiu văzută fără căști pe cap, obicei preluat de la tatăl meu. El, fiind crescut de bunicul, a dobândit la rândul său această pasiune. Aș putea spune că el a influențat mare parte din gusturile mele în muzică. Suntem ambii fani ai mai multor genuri muzicale și amândoi vedem muzica, nu doar ca pe o formă de entertainment, ci, mai degrabă, ca pe una dintre cele mai frumoase forme de artă.`,
+        paragraph4: `Din acest punct de vedere, nu am multe în comun cu mama. Ea vede muzica strict ca pe un element al unei petreceri, nu are preferințe pentru vreun gen muzical, îi place ce aude pe orice post de radio. Totuși, printre atâtea diferențe, avem un lucru în comun. Ambele suntem de părere că muzica nu mai e ce a fost. Pare că toate ideile originale au fost deja luate, ceea ce împiedică noii artiști să exceleze.`,
+        paragraph5: `Obișnuiam să spun că nu îmi plăcea liniștea, că dacă viața mea ar fi un film, ar avea un soundtrack vast, dar se dovedește că nu sunt nici prima, nici ultima cu această mentalitate. Există studii ce dovedesc că muzica reduce anxietatea, durerea, îmbunătățește memoria, calitatea somnului și, bineînțeles, starea spirituală. O melodie ascultată pentru prima dată stârnește emoții pe care o melodie cunoscută nu le-ar putea provoca, în timp ce o piesă ce ne este deja bine cunoscută provoacă sentimentul de familiaritate.`,
+        paragraph6: `Muzica este un mijloc de păstrare al amintirilor, un bun prieten, terapeut, și centrul de atracție al oricărei petreceri, cum zice și mama. Acesta este motivul pentru care cred că muzica este un element important în viețile noastre de zi cu zi.`,
+    },
+
+    {
+        id:2,
+        title: `Cine este Nina Cassian`,
+        author: "Iasmina Constantin",
+        date: "8 septembrie, 2023",
+
+        category: 'Cultură',
+        color: '#CC704B',
+        time: '3 minute',
+
+        coverImg:'/assets/blogImages/cover/Iasmina Constantin - 8 sept - cover',
+        landscapeImg:'/assets/blogImages/landscape/Iasmina Constantin - 8 sept - landscape.jpeg',
+
+        description: `Descoperind-o pe Nina Cassian și influențele ei asupra schimbării de percepție față de literatura română`,
+        
+        paragraph1: `Până nu demult, am refuzat vehement să citesc cărți în română sau materiale scrise de autori români. Consideram că literatura noastră este demodată și abordează teme tangențiale timpurilor noastre.  Acest lucru s-a schimbat în momentul în care am început să mă simt înstrăinată de tot ce constituia frumosul din cultura românească.  Am ajuns la concluzia că apartenența la o identitate culturală este importantă în găsirea sinelui. De aceea, am decis să-mi revizuiesc atitudinea față de literatura română. Astfel, căutând autori și poeți români, am descoperit-o pe Nina Cassian.`,
+        q1: `“Am visat azi-noapte sub pleoapele verzi`,
+        q2: `Somnul de stofă al unui ins șters.`,
+        paragraph4: ` `,
+        q3: `Arbori nătângi, plini de fructe și frunze`,
+        q4: `Înlocuiau arborii cu inimi neunse`,
+        paragraph8: ` `,
+        q5: `Și era lumină, și era lumină`,
+        q6: `Ca-ntr-un pahar cu ceai în care-a explodat o albină.`,
+        paragraph14: ` `,
+        q7: `Hei, ziceam. Și mai mult n-am grăit,`,
+        q8: `Purtam în frunte un ochi liniștit.`,
+        paragraph20: ` `,
+        q9: `Dar astupam fereastra să nu se audă`,
+        q10: `Cât îmi e de ciudă, cât îmi e de ciudă…”`,
+        paragraph26: `(“Freudism”, La Scara 1/1- 1947)`,
+        paragraph28: ` `,
+        paragraph30: `Nina Cassian este cel mai bine cunoscută pentru volumele sale de poezii pentru copii, precum „Prințul Miorlau” sau „Roșcată-ca-Arama și cei șapte șoricari”. Însă ar fi greșit dacă aș spune că doar cu asta s-a ocupat. Ea a scris atât poezie, cât și proză și compuneri muzicale. Volumul ei de debut s-a numit „La Scara 1/1”, poezia de mai sus fiind extrasă din acesta. Ulterior, a început să scrie poezii pentru copii și literatură proletcultistă, cochetând în paralel cu neomodernismul literar. Ea a inventat și o nouă limbă poetică (limba spargă*). În anul 1969 i-a fost acordat Premiul Uniunii Scriitorilor din România. A mers la New York, în 1985, cu bursa Soros și s-a stabilit acolo până la sfârșitul vieții.`,
+        paragraph32: `Ea împânzește literatura prin intimism. În scrierile sale, aceasta abordează teme precum: dragoste, exil, război și condiția umană. Acestea sunt tematici des întâlnite în operele românești, însă Nina reușește să le expună într-un mod superlativ și, într-o anumită măsură, perturbator, datorită influențelor suprarealiste pe care le vizitează des. Răsfoind volumele sale de poezie am redescoperit plăcerea de a citi în limba nativă și am aflat că expresivitatea limbii române este mai densă decât îmi închipuiam eu. Am realizat și că avem versatilitate în literatura noastră, că nu este stagnantă și rigidă, așa cum am presupus cu încredere în trecut, ci este în continuă schimbare și adaptare.`
+
+
+    },
+
+    {
+        id:3,
+        title: `M-am îndrăgostit de poezia românească`,
+        author: "Maria Dejeu",
+        date: "8 septembrie, 2023",
+
+        category: 'Cultură',
+        color: '#CC704B',
+        time: '3 minute',
+
+        coverImg:'/assets/blogImages/cover/Maria Dejeu - 8 sept - cover',
+        landscapeImg:'/assets/blogImages/landscape/Maria Dejeu - 8 sept - landscape.jpeg',
+
+        description: `nu de Mihai Eminescu`,
+        
+        paragraph1: `Nu am de gând să vă țin o predică despre importanța bibliografiei școlare din liceu și nici nu îl voi idolatriza pe Mihai Eminescu. Sigur, asta nu înseamnă că descrierile lui Lucian Blaga și grădina Anei Blandiana nu mă înduioșează de fiecare dată când îmi acaparează mintea, însă respectul și pasiunea mea față de poezia în limba română nu a fost stârnit de mult timp.`,
+        paragraph2: `Într-o zi fără soare, influențată de nevoia de escapism pentru că, sinceră să fiu, nu mai aveam chef de lucrul suplimentar la mate, mi-am pus papucii în picioare și am pornit la o plimbare prin centrul orașului. Uite așa, datorită (sau din cauza) atitudinii mele „total productive”, am ajuns în biblioteca de pe Bulevardul Eroilor, pe scările spiralate, cele pe care le urc de la vârsta de cinci ani când mă ducea mama la atelierele de pictură ce se desfășurau la etaj. Am urcat scările cum făceam și cu zece ani în urmă, în căutarea unei noi cărți cu copertă frumoasă sau cu titlu misterios care m-ar fi atras și convins să o cumpăr… și să o las pe rafturile din camera mea lângă celelalte douăzeci de cărți cumpărate anul acesta. M-a mustrat gândul acesta, realizând că în ultima vreme mai mult mă gândesc la citit decât chiar citesc și mi-am propus pentru a mia oară că voi „pune mâna pe carte”. Însă, chiar în momentul în care privirea mi s-a oprit pe secțiunea „poezie”, am observat că raftul cel mai de jos are doar cărți subțiri. Cu puțină vinovăție vă spun asta, însă ceea ce m-a convins la momentul respectiv să ridic una dintre acele cărți era faptul că avea sub o sută de pagini. Mi-am spus că poate dacă aș fi citit ceva așa scurt aș fi reuși să citesc iarăși cărțile lui Murakami de 1000 de pagini. N-am mai stat pe gânduri și am cumpărat două scurte cărți de poezie, bucuroasă că nici portofelul nu mă durea tare după ce am ieșit din magazin. Așa am ajuns eu cu primele mele două cărți de poezie în română, „Ascunde amintirile și distruge tot ce-am atins” de Luminița Amarie și „Camera albastră” de Diana Rusu.`,
+        paragraph3: `Când am început a citi, m-am așteptat să fie o lectură scurtă și să-mi stârnească din nou curiozitatea pentru literatură, dar doar una dintre aceste așteptări s-a dovedit a fi adevărată. M-am trezit că după a doua poezie parcursă îmi scot creionul și încep să subliniez citate, mai apoi și să notez prin colțuri de pagini gânduri și emoții extrase din poezii adineaori lecturate. Țin să menționez că până atunci eu eram genul de persoană care judeca pe oricine care scria pe cărți. Am tras concluzia că micile cuvinte familiare în limba română m-au făcut să simt ceva. Ambele cărți au fost umplute de scrisul meu, (v-aș fi arătat însemnările mele preferate, dar caligrafia de pe pagina respectivă este de tot râsul). Cu fiecare pagină dată se observa că începeam să recitesc poeziile din ce în ce mai mult. Dacă vă gândiți că ori am văz prost, ori sunt aeriană, promit că are sens ce făceam.`,
+        paragraph4: `În aproape toate poeziile din cele două cărți am regăsit elemente românești specifice. Elemente ce îmi trezeau un sens de înțelegere proprie pe care nu-l mai întâlnisem în alte poezii sau proze filozofice. Consider că senzația de credibilitate oferită de o poezie superbă,  pusă într-o locație de-a casei este unică. Deși eu vreau să studiez în străinătate la facultate și folosesc engleza ca limbă de studiu, peisajul românesc modern asociat cu gânduri și epitete profunde m-a făcut să simt un dor de limba mea maternă și de liniștita senzație de a auzi cuvinte ce mă înconjoară zi de zi.`,
+        paragraph5: `Deoarece atunci când ne gândim la poezii în limba română, automat ne gândim la un vocabular sofisticat eminescian, vă ofer o alternativă mai potrivită pentru vremurile contemporane. Cuvintele folosite în paginile cărții „Camera Albastră” vă pot face o surpriză modernă datorită a cât de ușor poți să zici că relatezi cu înțelesurile acestora când citești.`,
+        q1: `“uneori mă simt un hoț de buzunare`,
+        q2: `schimb joburi joburi joburi`,
+        q3: `mii de joburi`,
+        q4q: `din care storc seva și pulpa când mă fac mare și`,
+        q5: `ca toată lumea`,
+        q6: `îmi iau încă un job`,
+        q7: `să-mi plătesc chiria în care stă doar jumătate de mine`,
+        q8: `cealaltă jumătate e la tine în grădină`,
+        q9: `bântuie firele de iarbă`,
+        q10: `what a fucked up world îmi spun`,
+        q11: `și-mi vine iar voalul peste cap`,
+        q12: `voalul de care atârnă lumânări grele sculptate`,
+        q13: `lumânări de crăciun și lumânări de cimitir`,
+        q14: `și mii de joburi”`,
+        paragraph34: `- Camera Albastră, Diana Rusu`,
+        paragraph36: `Din ce am observat eu ca elev, problemele privind poezia românească sunt tocirea și tradiția. Măsurând cu ochiul prin școală, 7 din 10 adolescenți asociază poezia cu textul liric ce se dă la examen și analiza de strofe cu rimă îmbrățișată. Ceea ce e o prostie! Din moment ce poezia e făcută să ajungă la inimă prin emoțiile transmise, e păcat să-și piardă semnificația și scopul fiind tocită cu disperare de către cititorii ei.`,
+        paragraph38: `Acum parcă altfel îl apreciez și pe Eminescu, chiar dacă nu mi-e poetul favorit. Îl văd altfel, pur și simplu pentru că poezia românească contemporană mi-a arătat ce nu am reușit eu să observ în timpul lecțiilor de română…pasiunea omului din spatele acesteia.`
+
+
+    },
+
+    
+    
+    {
+        id:4,
         title: `Grădina lui Monet`,
         author: "Sophie Popa",
         date: "13 August, 2023",
@@ -24,7 +129,7 @@ export const blogList = [
     },
 
     {
-        id:2,
+        id:5,
         title: `Claude Monet, tatăl impresionismului`,
         author: "Maria Dejeu",
         date: "13 August, 2023",
@@ -49,7 +154,7 @@ export const blogList = [
     },
 
     {
-        id:3,
+        id:6,
         title: `Impresionismul`,
         author: "Alexandra Sălăjan",
         date: "13 August, 2023",
@@ -78,7 +183,7 @@ export const blogList = [
     
     
     {
-        id:4,
+        id:7,
         title: `Dacă am încetini ritmul vieții...`,
         category: 'Social',
         color: '#A19664',
@@ -101,7 +206,7 @@ export const blogList = [
     },
 
     {
-        id:5,
+        id:8,
         title: `Recenzie carte - “Căutând-o pe Alaska”`,
         category: 'Cultură',
         color: '#CC704B',
@@ -127,7 +232,7 @@ export const blogList = [
     },
     
     {
-        id:6,
+        id:9,
         title: `Recenzie carte - “Camera albastră”`,
         category: 'Cultură',
         color: '#CC704B',
@@ -154,7 +259,7 @@ export const blogList = [
 
 
     {
-        id:7,
+        id:10,
         title: `M-ar mai speria filmele horror dacă le-aș da pe mut?`,
         category: 'Cultură',
         color: '#CC704B',
@@ -175,7 +280,7 @@ export const blogList = [
     },
 
     {
-        id:8,
+        id:11,
         title: `În conversație cu Radu Băzăvan`,
         category: 'Cultură',
         color: '#CC704B',
@@ -219,7 +324,7 @@ export const blogList = [
     },
     
     {
-        id:9,
+        id:12,
         title: `Încercuit în AperiTIFF`,
         category: 'Cultură',
         color: '#CC704B',
@@ -262,7 +367,7 @@ export const blogList = [
 
     
     {
-        id:10,
+        id:13,
         title: `Voluntariatul – manifestare a altruismului?`,
         category: 'Social',
         color: '#A19664',
@@ -292,7 +397,7 @@ export const blogList = [
     },
 
     {
-        id:11,
+        id:14,
         title: `Recenzie carte - “Ca și cum nimic nu s-ar fi întâmplat”`,
         category: 'Cultură',
         color: '#CC704B',
@@ -311,7 +416,7 @@ export const blogList = [
     },
 
     {
-        id:12,
+        id:15,
         title: `În conversație cu noua generație de artiști`,
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -393,7 +498,7 @@ export const blogList = [
     },
 
     {
-        id:13,
+        id:16,
         title: `Cum a fost la "Poveste la film"`,
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -414,7 +519,7 @@ export const blogList = [
     },
 
     {
-        id:14,
+        id:17,
         title: `Despre "Aici Improvizăm"`,
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -434,7 +539,7 @@ export const blogList = [
     },
 
     {
-        id:15,
+        id:18,
         title: "Rujul și privirea masculină",
         category: 'Social',
         color: '#A19664',
@@ -464,7 +569,7 @@ export const blogList = [
     },
 
     {
-        id:16,
+        id:19,
         title: `Prima mea iubire muzicală.`,
         category: 'Cultură',
         color: '#CC704B',
@@ -493,7 +598,7 @@ export const blogList = [
     },
 
     {
-        id:17,
+        id:20,
         title: "STEM vs Arts",
         category: 'Social',
         color: '#A19664',
@@ -516,7 +621,7 @@ export const blogList = [
 
     {
 
-        id:18,
+        id:21,
         title: 'Nu sunt pasionata de nimic',
         category: 'Social',
         color: '#A19664',
@@ -540,7 +645,7 @@ export const blogList = [
     },
 
     {
-        id:19,
+        id:22,
         title: `Fallen Angels (1995) - o experiență cinematografică`,
         category: 'Cultură',
         color: '#CC704B',
@@ -561,7 +666,7 @@ export const blogList = [
     },
 
     {
-        id:20,
+        id:23,
         title: `Woodstock '99`,
         category: 'Cultură',
         color: '#CC704B',
@@ -586,7 +691,7 @@ export const blogList = [
     },
 
     {
-        id: 21,
+        id: 24,
         title: "Cafeluța de dimineață",
         category: "Social",
         color: '#A19664',
@@ -607,7 +712,7 @@ export const blogList = [
     },
 
     {
-        id:22,
+        id:25,
         title: 'Globuri și Copii ',
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -628,7 +733,7 @@ export const blogList = [
     },
 
     {
-        id:23,
+        id:26,
         title: 'În conversație cu noua generație de poeți',
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -670,7 +775,7 @@ export const blogList = [
     },
 
     {
-        id:24,
+        id:27,
         title: 'Despre Pălăvrăgeală Poetică',
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -689,7 +794,7 @@ export const blogList = [
     },
     
     {
-        id:25,
+        id:28,
         title: 'Taylor Swift',
         category: 'Cultură',
         color: '#CC704B',
@@ -712,7 +817,7 @@ export const blogList = [
     },
 
     {
-        id:26,
+        id:29,
         title: 'Odd Future- o scurtă istorie',
         category: 'Cultură',
         color: '#CC704B',
@@ -733,7 +838,7 @@ export const blogList = [
     },
     
     {
-        id: 27,
+        id: 30,
         title: "Winter fashion",
         category: 'Cultură',
         color: '#CC704B',
@@ -754,7 +859,7 @@ export const blogList = [
     },
 
     {
-        id: 28,
+        id: 31,
         title: 'Recenzie carte - "O altă țară"',
         subtitle: "Gata să izbucnească în muzică sau în flăcări sau o revelație",
         category: 'Cultură',
@@ -771,7 +876,7 @@ export const blogList = [
         date: "30 Noiembrie, 2022"
     },
     {
-        id: 29,
+        id: 32,
         title: "Autodescoperire sau autodistrugere?",
         category: "Social",
         color: '#A19664',
@@ -790,7 +895,7 @@ export const blogList = [
     },
 
     {
-        id:30,
+        id:33,
         title: "Muzică în căști cât tocești la bio",
         category: "Social",
         color: '#A19664',
@@ -810,7 +915,7 @@ export const blogList = [
     },
 
     {
-        id: 31,
+        id: 34,
         title: "Validarea academică",
         category: 'Social',
         color: '#A19664',
@@ -830,7 +935,7 @@ export const blogList = [
     },
 
     {
-        id: 32,
+        id: 35,
         title: 'Recenzie carte - "O viață măruntă"',
         category: 'Cultură',
         color: '#CC704B',
@@ -851,7 +956,7 @@ export const blogList = [
     },
 
     {
-        id: 33,
+        id: 36,
         title: "Despre Graffiti Drop",
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -887,7 +992,7 @@ export const blogList = [
     },
 
     {
-        id: 34,
+        id: 37,
         title: "Interact Transilvania --- Începuturi",
         category: 'Interact Transilvania',
         color: '#3A8891',
