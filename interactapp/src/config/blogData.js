@@ -103,7 +103,92 @@ export const blogList = [
 
     },
 
-    
+    {
+        id:4,
+        title: `Frica de expunere a artiștilor`,
+        author: `Tudor Pop`,
+        date: `15 august, 2023`,
+
+        category: `Social`,
+        color: `#A19664`,
+        time: `2 minute`,
+
+        coverImg:`/assets/blogImages/cover/Tudor Pop - 15 august - cover.jpeg`,
+        landscapeImg:`/assets/blogImages/landscape/Tudor Pop - 15 august - landscape.jpeg`,
+
+        description: `Cât de greu este să te expui în fata unui public ca artist`,
+        
+        paragraph1: `A fi artist a devenit un lucru destul de comun în zilele noastre, însă pentru a fi un artist recunoscut, omul trebuie să se expună societății, să treacă de emoții, de frica de public (fie că acesta este format din apropiați, rude sau străini) și să își promoveze munca știind că urmează să fie judecat de către toată lumea.`,
+        paragraph2: `Acest subiect este cel pe care vreau să-l abordez și eu astăzi, așa că vin cu întrebarea: Cât de greu este, ca artist, să îți expui munca în fața unui public format din diferite tipuri de oameni?`,
+        paragraph3: `Ei bine, pentru acest articol m-am folosit, cum ar fi fost și de așteptat, de experiențele reale ale unor artiști foarte talentați, însă la asta voi ajunge mai încolo.`,
+        paragraph4: `Înainte de toate, aș vrea să îmi exprim propria părere față de acest subiect, deoarece îl consider pasul primordial pentru orice „aspiring artist”. Nu sunt, nu mă consider și cel mai probabil nu voi ajunge să fiu artist, însă sunt un om care cară un întreg sac de emoții de fiecare dată când trebuie să-și prezinte o idee la care ține mult. Fie că e o prezentare a unui concept, a unei aplicații (da, sunt pasionat de programare), a unui subiect de interes pentru mine ori fie că e alt context. Uneori ajung să mă pierd din cauza acestor emoții și să spun mult mai puțin decât aș fi dorit să spun de fapt. Cred că acest lucru este universal, cu toții avem emoții înainte de a împărtăși cuiva o idee sau un „ceva” de care ne pasă. Însă, în cazul artiștilor devine și mai greu, deoarece ei cunosc faptul că în momentul în care creația lor este expusă, ea devine un teren liber pentru critică, judecată sau chiar ironie din partea celor care o „apreciază”. În acest scop, am ales trei artiști, un poet, un rapper român și un muzician cu care să discut despre acest prim pas în artă.`,
+        paragraph5: `Paul Mocan (muzician): „Ideea e că devii insecure. E foarte greu să faci primul pas. Mereu te gândești că poate faci ceva greșit și uneori pare că totul iese prost. Overthinkuiești. Și mi se pare că toate acestea contribuie la suprimarea creativității și până la urmă a distracției.”`,
+        paragraph6: `Paul Precup Mark (poet): „Bună întrebare, eu sunt o persoană foarte emotivă, și prima dată când mi-am arătat poezia în fața unui public mai larg a fost la primul open mic ținut de Lena Chilari, și și aia pentru că i-a arătat o prietenă Lenei înspre mine, deși eram foarte reticent să merg în față să citesc. Cred că în parte destul de mare îi datorez Lenei curajul pe care mi l-am făcut apoi să citesc în continuare la public, fiindcă după acea experiență am fost receptat cu foarte multă căldură și feedback pozitiv, și-am zis că uite mă că poate chiar sunt în stare de ceva și mi-e frică degeaba. Cât despre detalii tehnice, de obicei fac chestia aia unde îmi citesc în oglindă de câteva ori, cu câteva ore înainte de orice eveniment unde se presupune că o să citesc, mă ajută să mai reduc din emoții și să citesc mult mai clar. Cam atât ar fi I think.”`,
+        paragraph8: `David Bîrlădeanu (rapper): „Sunt o persoană ce ține la viața lui privată și mă gândeam că după lansarea albumului o să fiu afectat. Nu cred că am trecut de frica de a publica, dar ca orice frică, trebuie să te arunci în fața ei să o combați.`,
+        paragraph10: `Cred că arta este factorul ce leagă ideea pe care vreau să o transmit cu oamenii, fără a-mi fi încălcată intimitatea.”`,
+        paragraph12: `După cum se poate vedea, această frică, cel puțin la început, pare să nu dispară niciodată. Însă, după cum spune și David (oxndawidh, un artist pe care v-aș invita să îl ascultați), fricile trebuie înfruntate și totul devine ușor pe parcurs, iar procesul creator nu poate fi mai plăcut decât atunci când nu există nicio reținere, iar artistul e sincer cu publicul său.`,
+        paragraph14: `Concluzia mea este că expunerea este extrem de dificilă pentru oricine, atât pentru persoane care nu sunt înclinate spre artă, cât și pentru cei mai talentați artiști, însă ca orice frică, ea dispare și ceea ce rămâne este artă pură. Așa că, dacă acest articol ajunge la vreun artist care nu știe dacă ar trebui să își publice melodia, cartea, poezia... eu i-aș spune cu sinceritate: Fă-o!`,
+        paragraph16: `‎`,
+        paragraph18: `Instagramul lui Paul Mocan: @raven._.corvus`,
+        paragraph20: `Instagramul lui Paul Precup Mark: @paulisalright`,
+        paragraph22: `Instagramul lui David Bîrlădeanu: @oxndawidh`
+    },
+
+    {
+        id:5,
+        title: `Iubirea, bat-o vina!`,
+        author: "Alexandra Sălăjan",
+        date: "15 august, 2023",
+
+        category: 'Social',
+        color: '#A19664',
+        time: '4 minute',
+
+        coverImg:'/assets/blogImages/cover/Alexandra Salajan - 15 august - cover.jpeg',
+        landscapeImg:'/assets/blogImages/landscape/Alexandra Salajan - 15 august - landscape.jpeg',
+
+        description: `Articol despre iubirea de sine și iubirea fata de ceilalti. Ce înseamnă acestea pentru mine.`,
+        
+        paragraph1: `Alinturile sunt cuvinte pe care le auzim zi de zi, de un milion de ori, uneori cu sens, alteori fără. Sunt cuvinte după care tânjim, de cele mai multe ori și de care, ne temem și fugim în același timp.`,
+        paragraph3: `Iubirea, bat-o vina! căci despre ea este vorba.`,
+        paragraph4: `Iubirea e un subiect dezbătut, discutat, disecat încă din cele mai vechi timpuri și e încă prezent, pe buzele tuturor chiar și acum. Iubirea este un sentiment care a existat dinainte să aibă un nume, un sentiment mult mai puternic decât cele două cuvinte prin care o exprimăm. Cu toții știm câte ceva despre ea, cu toții am simțit-o sub o formă sau alta și cu toții știm că fără ea nu putem. Dar poți oare să iubești pe cineva, fără să te iubești pe tine? Cum ajungi să dăruiești iubirea, dacă nu ți-ai oferit-o ție mai întâi?`,
+        paragraph5: `Iubirea se regăsește pretutindeni. Aceasta se bazează pe înțelegere, dorința de a comunica cu cei din jur, afecțiune, totodată și susținere. Tipul de afecțiune este diferit în funcție de persoana căreia îi este adresată. Dragostea diferă de la un om la altul, modul prin care este oferită fiind complet altul. Aceasta apare sub mai multe forme: iubirea față de familie, față de prieteni, față de partenerul de viață sau pur și simplu, iubirea față de lucrurile care îți plac și te pasionează.`,
+        paragraph6: `Iubirea de sine este cel mai de preț dar pe care ți-l poți oferi singur și e gratis. Este esențială pentru a crește și a te dezvolta armonios. Dacă tu știi să te iubești, să te înțelegi și să te respecți, ceilalți o să vină spre tine. A fi în armonie cu tine este foarte important pentru a-ți putea atinge obiectivele care te fac să te simți special odată împlinite. Acele obiective urmând să dea un sens vieții tale. Dacă crezi în propriile puteri atunci nu va rămâne nimic nerezolvat.`,
+        paragraph8: `Pentru mine iubirea este sentimentul neprețuit care zice că indiferent cât de supărată sunt pe cineva, ceva mă atrage din nou și din nou la ei, fără să simt că am făcut o greșeală. De asemenea, iubirea din perspectiva mea înseamnă sacrificiu, să ști să lași de la tine în anumite momente. De obicei iubirea este confundată cu admirație față de o persoană și mai apoi chiar cu obsesie.`,
+        paragraph10: `Ideea este că sentimentele pe care le asociem cu iubirea sunt diferite în funcție de persoană și modul prin care fiecare le exprimă. Nu uita că dacă te iubești pe tine și îi ai pe cei dragi alături ești mai puternic decât crezi. Trebuie să ai încredere în tine.`,
+        paragraph12: `“Te iubesc nu doar pentru ceea ce ești, ci și pentru ceea ce sunt când sunt în preajma ta” – Roy Croft`
+    },
+
+    {
+        id:6,
+        title: `Despre nimic`,
+        author: "Madi Blaga",
+        date: "15 august, 2023",
+
+        category: 'Social',
+        color: '#A19664',
+        time: '10 minute',
+
+        coverImg:'/assets/blogImages/cover/Madi Blaga - 15 august - cover.jpeg',
+        landscapeImg:'/assets/blogImages/landscape/Madi Blaga - 15 august - landscape.jpeg',
+
+        description: `Cum să zici ca ești scriitor și sa nu mai știi despre ce sa scrii??`,
+        
+        paragraph1: `În caz că nu știai deja (slabe șanse, but still), pentru mine scrisul e foarte important. Cred că dacă întrebi pe oricine care a petrecut cel puțin 20 de minute cu mine, știe să-ți recite cuvânt cu cuvânt discursul spus de mine: „scrisul e modul meu de a coopera cu viața”. Și sincer, scrisul chiar e modul meu de a coopera cu viața. E posibil să nu fiu singura în această situație și tocmai de aceea am nevoie de răspuns la următoarea întrebare. Ce se întâmplă când nu mai știu despre ce să scriu?`,
+        paragraph2: `De vreo două săptămâni mă tot pun la birou și-mi zic „hai să scriu ceva” și...nimic. Nu scriu nimic. Nu scriu despre nimic. Nu știu ce să scriu despre nimic. Pur și simplu stau, mă uit în gol și-mi storc creierii în încercarea de a găsi o idee despre care să scriu. Nimic. Nu-mi vin idei. Mi-am întrebat și prietenii și i-am rugat, disperată, să-mi zică despre ce să scriu. Niciunul dintre subiectele recomandate de ei nu mi-a făcut cu ochiul. Am tot încercat și am încercat, dar singură nu am găsit o soluție la această problemă care mă apasă pe umeri de ceva timp (plus că deadline-ul acela de „ne trebuie articole pentru blog și tu Madi încă n-ai scris nimic” nu e absolut deloc de ajutor). Știti cum se întâmplă de multe ori când ești prea implicat în ceva să nu vezi că soluția era chiar sub nasul tău? Nu știu cum să trec peste acest blocaj, așa că gândul meu fuge la „Ce ar face x în locul meu?” Și am zis că merită măcar să încerc să-mi întreb prietenii despe metodele folosite de ei pentru a coopera cu blocajele din viața lor. Not surprining, majoritatea au zis că dacă au vreun blocaj, fac o pauză în care respiră și când revin asupra problemei răspunsul le vine țac-pac. Alții au zis că dacă întâmpină vreo dificultate, se dau bătuți. „Vai adolescenții din ziua de azi!” Eu nu mă pot da bătută, sunt determinată să scriu un articol chiar dacă e ultumul lucru pe care-l fac. Îmi iubesc prietenii, dar soluțiile astea were not it, așa că am decis să analizez blocajul (un lucru nu foarte unusual pentru mine):`,
+        paragraph3: `Prima problemă: baiul nu e că nu aș putea să scriu, ci nu-mi găsesc despre ce să scriu. Normal că dacă mi s-ar impune un subiect, aș știi să scriu. Dar libertatea de a-mi alege un lucru despre care să scriu, oricât ar fi ea de minunată, poate fi extrem de stresantă. Cum ar trebui să aleg eu un singur subiect dintre atâtea.`,
+        paragraph4: `Revin. După încercarea, puțin spus, eșuată de a asculta recomandările de idei pentru articol ale prietenilor. Am decis să le urmez sfatul și să nu mă mai stresez din cauză că nu știu despre ce să scriu și să las să vină de la sine. Mic spoiler: nu a venit de la sine. După 2 săptămâni m-am trezit din nou în fața laptopului fără idei și fără speranță.`,
+        paragraph5: `A doua problemă: aveam idei, dar oare chiar ar citi lumea despre ce voiam să scriu? Normal că aș fi putut scrie despre cât de comercializat a devenit Valentine’s Day (de fapt, mi-e doar ciudă că nu mi-a dat nimeni flori), sau despre cât de frustrant e să fii lăsat în delivered de cineva de care chiar îți pasă (e ca naiba, doar ca să clarific). Sau aș fi putut să scriu despre cum în ultima vreme nu-mi mai tac gândurile sau despre oboseala care parcă și la ora 7 dimineața e prezentă. Dar ar citi cineva un articol despre oboseală? Nu cred...adică, soluția e simplă (așa cum zice și mama): „culcă-te!” Sau...aș fi putut să scriu recenzia unei cărți (zise ea deși în ultima vreme a citit doar Cărtărescu, pentru școală, și i s-a urât de literatura română). Parcă nimic nu pare destul de interesant dacă te gândești prea mult la el.`,
+        paragraph6: `A treia problemă: să zicem că am ales o idee (încă tot nu știu despre ce să scriu), cum scriu despre ea ca să pară și funny și relatable și catchy și ușor de înțeles și și și și...`,
+        paragraph8: `Nu știu care e faza cu blocajul ăsta, sincer. Am mai avut până acum momente în care nu-mi venea inspirația și în care „nu mai aveam nimic de spus”, dar parcă acum îmi dă crash complet imaginația. Am gândit și regândit toate TOATE motivele din lumea asta pentru care e posibil să-mi fi pierdut imaginația. Prietenii? Nu cred, adică doar totul merge bine cu ei, nu? Iubirea? Nici nu intrăm în subiectul acesta, aia e cu totul altă discuție...o discuție dureros de scurtă care clar nu are final fericit. Școala? Poate, I don’t know. Uneori e atât de multă gălăgie printre gândurile mele că pur și simplu nu mă pot concentra la un singur lucru. Tu îmi povestești despre cum ți-ai petrecut weekend-ul, eu mă gândesc la cum am uitat cel mai probabil ușa de la casă deschisă. Oare am scos fierul de călcat din priză înainte să plec?`,
+        paragraph10: `Poate că fug de propriile gânduri…Poate că îmi e rușine că nu sunt briliante și destul de bune pentru a forma un articol. Îmi place la nebunie să fug de lucrurile importante. A evita o problemă e mereu mai ușor decât a o confrunta. Îmi găsesc mici chestii banale și neimportante care să-mi distragă atenția și să mă facă să uit de viață...să mă facă să mă simt din nou normală. Destul de paradoxal spus, pentru că această fugă face fix inversul...îmi amorțește simțurile și îmi umple atât mintea, cât și inima cu false „sentimente” puternice care îmi încețoșează gândirea. Uneori a nu simți nimic real e euforic. Îți permite să treci prin viață doar ca spectator, nu și ca personaj. Ajungi să devii un simplu vizitator în propria viață. Nu e ca și cum ai rata ceva, pentru că ești mereu acolo, dar nu e ca și cum ai trăi ceva either, pentru că ești mereu cu gândul în altă parte.`,
+        paragraph12: `„Madi, ce s-a întâmplat? Nimic, sunt doar obosită.” Fug, fug, fug. Nimic nu mă poate încetinii. Gândurile trec în viteză pe lângă mine, dar fug prea repede, mult prea repede, pentru a le putea înțelege, fug prea repede ca să le pot auzi. În sfârșit e liniște...și eu fug. Pentru prima dată după mult timp, nu trebuie să-mi dau la maxim muzica din căști ca să pot să o aud. Dar cât de mult pot să fug până să obosesc? Cât de mult pot trăi fără să simt vreo emoție?`,
+        paragraph14: `„Ești bine? Nu.” La un moment dat trebuie să mă opresc. Nu vreau să mă opresc, dar nu mă mai țin picioarele. Nu-mi mai simt degetele și mi s-au înmuiat genunchii. Mă opresc doar pentru câteva clipe pentru a-mi putea trage răsuflarea și-mi promit că pornesc din nou. Inspir, expir. Mi-au amorțit picioarele. De ce nu mai pot să fug? Nu mă mai pot mișca. Toate acele gânduri pe lângă care adineaori fugeam nonșalantă m-au prins din urmă și mi s-au încolăcit în jurul gleznelor. Sunt blocată printre gânduri care se năpustesc asupra mea din toate direcțiile și mă împung ca sute de ace veninoase. Compensează pentru scurta perioadă în care mi-am permis să le ignor și să nu simt nimic. Acum simt totul dintr-odată...sunt extenuată. Tot stresul, toată tristețea, toată dezamăgirea, toată fericirea (cât a mai rămas și din ea)...totul, simt totul și mă consumă. Începe să se răspândească în mine ca o infecție pe care la început o trecem cu vedea spunând că „va trece de la sine”. People need to understand că sunt unele chestii, la fel ca asta, care NU TREC DE LA SINE. Fenomenul de burnout e ceva cât se poate de real și nu trece un-doi cum pocnești din degete. Mi-am consumat rezerva de energie de la atâta fugă și singura mea soluție e să mă predau gândurilor. Nu știu ce altceva să mai fac, nu mai am cale de scăpare. Se face din nou gălăgie în mintea mea.`,
+        paragraph16: `Nu-mi mai tac gândurile. De obicei pot să le opresc, pot să le fac să amuțească, dar acum nu...sunt ca un sunet de fundal continuu. Îmi țiuie în urechi și-mi blochează imaginația. Am încercat să fug de ele, dar nu pot scăpa de tot. Până la urmă tot ala mele sunt...tot mie îmi aparțin.`,
+        paragraph18: `Am citit undeva sau am auzit pe cineva spunând ceva de genul „o să-ți dai tu seama ce să faci, când se așază totul și se face liniște în sufletul tău.”`,
+        paragraph20: `Un gând reconfortant, dar până atunci, până când „va fi liniște în sufletul meu...”`,
+        paragraph22: `Despre ce să scriu acum dacă am scris și despre nimic?`
+    },
     
     {
         id:4,
