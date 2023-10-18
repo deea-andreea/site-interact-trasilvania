@@ -1,7 +1,87 @@
 export const blogList = [
-    
     {
         id:1,
+        title: `Teen poets society`,
+        author: `Sophie Popa`,
+        date: `18 octombrie, 2023`,
+
+        category: `Social`,
+        color: `#A19664`,
+        time: `4 minute`,
+
+        coverImg:`/assets/blogImages/cover/Teen poets society - cover.jpeg`,
+        landscapeImg:`/assets/blogImages/landscape/Teen poets society - landscape.jpeg`,
+
+        description: `Voiam să fiu artistă, deci am rămas cu poezia…și proza`,
+        
+        paragraph1: `Mereu m-am simțit atrasă de ocupațiile, să zicem, nonconvenționale. Știam doar că-mi doream să fiu artistă, iar în încercările mele de a-mi găsi pasiunea, am trecut prin nenumărate forme de artă. Cea cu care am rămas până în ziua de azi este poezia`,
+        paragraph2: `...și proza.`,
+        paragraph3: `Fiind o persoană ce simte mult, uneori prea mult, textul liric este un element ce mă ajută să îmi controlez emoțiile.`,
+        paragraph4: `Din afară, pare că aceste două ramuri ale scrierii lirice sunt similare din mai multe puncte de vedere decât sunt de fapt. Într-adevăr, au același nivel de dificultate. E greu să scrii și proză bună, dar și poezie de calitate. Ambele necesită timp, dedicație, talent și, bineînțeles, sentimente. Așa mi-am dat și eu seama cât de mult îmi place să scriu. În momentul în care pui penița pe hârtie, emoțiile vor curge ca cerneala.`,
+        paragraph5: `Prima dată când am recurs la poezie a fost un moment în care simțeam prea multă iubire pentru a o putea exprima în cuvinte rostite. Prima mea poezie, „Scrisoare Lunii”, a fost scrisă într-un caiet de schițe, pe o bancă dintr-un parc. Prima și singura persoană care a citit-o până nu demult a fost cea căreia i-am dedicat-o.`,
+        paragraph6: `În versurile din „Scrisoare Lunii” e menționată scrisoarea scrisă pentru ea, pe care nu am ajuns să i-o dau, din cauza incertitudinii față de reacția ce urma să o primesc. `,
+        paragraph8: `Am început să îmi dezvolt această exprimare metaforică. Mereu mi-a părut interesant faptul că eram singura persoană care va înțelege în totalitate conținutul operei. Poezia nu a părăsit paginile carnețelului meu și nu cred că o va face vreodată. Cu siguranță, însă, nu îmi va părăsi în totalitate nici mintea.`,
+        paragraph10: `Când vine vorba de muza mea și de reacția acesteia la poezie, nu e mult de adăugat. Mi-a spus că mai am de repetat. Mi-a spus că sună binișor. Unii s-ar fi simțit mai mult răniți decât ambiționați. Bineînțeles, când faci un gest atât de vulnerabil pentru o persoană iubită și nu ești răsplătit cu altceva decât feedback, nici fericit nu te vei simți. Totuși, eu mi-am dorit să continui. Mi-am dorit să o fac mândră.`,
+        paragraph12: `Monologurile pe care le scriu semnifică pentru mine milestone-uri în progresul meu. De aceea, în volumul la care lucrez, acestea semnifică început sau final de capitol. Gândindu-mă la scrierile mele în proză, mă gândesc la monologul „Solipsism în doi”, scris în această vară. Acesta explorează ideea de „când sunt cu tine pare că dispare tot restul lumii”, o parte frumoasă, dar înfricoșătoare a iubirii.`,
+        paragraph14: `Totuși, de ce sunt proza și poezia atât de diferite, fiind amândouă texte, mai mult sau mai puțin, lirice? `,
+        paragraph16: `În timp ce prin scrierea un monolog voi reuși să îmi înțeleg propriile trăiri și să le exprim în mod cât mai concret, folosind încă figuri de stil, prin poezie reușesc să fac artă din tot ce am în minte și din tot ceea ce am de spus.`,
+        paragraph18: `Nu e tocmai simplu să devii un poet de succes în acest secol, dar mereu mi-am spus că în cariera mea îmi voi pune pe primul loc pasiunea și așa îmi doresc să rămână. Mi-ar plăcea ca data viitoare când vedeți numele meu să fie în vitrina unei librării, dar până atunci mai am multe de simțit, din urma cărora mai am multe de scris...`
+    },
+    {
+        id:2,
+        title: `Femeile în artă`,
+        author: "Dalia Sîntejudean",
+        date: "18 octombrie, 2023",
+
+        category: 'Cultură',
+        color: '#CC704B',
+        time: '3 minute',
+
+        coverImg:'/assets/blogImages/cover/Femeile in arta - cover.jpeg',
+        landscapeImg:'/assets/blogImages/landscape/Femeile in arta - landscape.jpeg',
+
+        description: `Femeile continuă să reprezinte punctul de interes al artei, și totuși, unde sunt doamnele în această lume a companionii lor de gen masculin?`,
+        
+        paragraph1: `De-a lungul istoriei, femeile au fost reduse la conceptul de muză, subiect de studiu în artă. Existența acestora drept creatori, surse de izvor ale creațiilor, este subminată din cauza unor concepte adânc înrădăcinate în mentalitatea societății.`,
+        paragraph2: `Nu se poate nega frumusețea acestora. Elogierea trăsăturilor feminine, delicate și elegante, nu este un lucru negativ, ba chiar din contră, scoate la iveală strălucirea sufletească a modelului ales. Însă, faptul că femeile se află în continuare cu o treaptă mai jos în domeniul artistic ridică anumite semne de întrebare, atât la adresa decursului fiecărui eveniment istoric care a condus la aceasta situație, cât și la factorul care blochează perpetuarea operelor realizate de femei.`,
+        paragraph3: `Să începem cu începutul: Statutul femeii în societate. Este bine cunoscut faptul că acestea au fost întotdeauna considerate inferioare de către companionii lor de gen masculin, fapt atestat chiar prin intermediul afirmațiilor aduse de filosofi precum Xenophon, care consideră că femeia ar trebui „să vadă cât mai puțin, să audă cât mai puțin și să pună cât mai puține întrebări”, astfel nefiind încurajată să fie curioasă sau să se dezvolte pe plan individual.`,
+        paragraph4: `Ironic este faptul că obiectul central al multor lucrări create în perioadele respective este întocmai femeia, indiferent că vorbim despre sculpturi sau picturi.`,
+        paragraph5: `Femeile continuă să reprezinte punctul de interes al artei și în perioada renascentistă, unde avem ca exemplu bine-cunoscutul tablou de Leonardo Da Vinci, „Mona Lisa” sau „Gioconda”; „Santa Maria Magdalena” de Tiziano Vecellio; „Nașterea lui Venus” de Sandro Botticelli.`,
+        paragraph6: `O căutare pe internet cu privire la cele mai cunoscute opere de artă din lume ne dezvăluie faptul că -surpriză- majoritatea sunt create de bărbați.`,
+        paragraph8: `Atât de mulți artiști de gen masculin reprezentanți ai fiecărui curent artistic, dar unde sunt doamnele? Pierdute în șirul timpului, uitate, lăsate în umbră și prăfuite. Îl știm pe Claude Monet, un ilustrativ artist al curentului impresionist, dar nu o cunoaștem pe Anna Archer; pe Van Gogh, dar nu pe Maggie Laubster; pe Tintoretto, dar nu pe Caterina van Hemessen. Câți dintre voi ați auzit de Nina Arbore care alături de Cecilia Cuțescu-Stork și Olga Greceanu au înființat „Grupul celor trei doamne”, grup menit să mobilizeze și să susțină artistele românce?`,
+        paragraph10: `Acum, în încheiere vă voi lăsa cu o temă de gândire, dragi cititori. Care este motivul pentru care nici măcar în prezent artistele nu primesc atenția cuvenită din partea publicului?`
+    },
+    {
+        id:3,
+        title: `Ce muzică asculți?`,
+        author: "Mălina Bochiș",
+        date: "18 octombrie, 2023",
+
+        category: 'Social',
+        color: '#A19664',
+        time: '2 minute',
+
+        coverImg:'/assets/blogImages/cover/Ce muzica asculti? - cover.jpeg',
+        landscapeImg:'/assets/blogImages/landscape/Ce muzica asculti? - landscape.jpeg',
+
+        description: `Care dintre toate genurile e cel mai puțin probabil să le creeze oamenilor o impresie greșită despre mine? Cum explic faptul că ascult de toate, dar nimic cu ardoarea unui fan?`,
+        
+        paragraph1: `„Ce muzică asculți?” e o întrebare pe care am auzit-o de atâtea ori în conversațiile de la începutul unei prietenii. E așa ușor! Găsești pe cineva cu gusturi în muzică similare cu ale tale și, dintr-o dată, aveți subiect de conversație, aveți ceva în jurul căruia să relate-uiți. Dar ce se întâmplă când nu ascultați aceiași artiști?`,
+        paragraph2: `Deseori aud în jurul meu oameni care critică un anumit gen de muzică. Evident, nu genul pe care îl ascultă ei. „Mainstream”, „basic”, „sappy” sunt cuvinte care au primit, de-a lungul timpului, conotație negativă. În timp ce „underground” e folosit pentru a descrie acele genuri de muzică „cool”. Dar ce anume e obiectiv „cool”? Există un gen superior de muzică?`,
+        paragraph3: `Ce se întâmplă atunci când nu ai un artist sau gen de muzică preferat? Cum răspunzi la întrebarea inevitabilă pe care o primești la începutul unei prietenii? Cum știi ce să răspunzi ca să nu determine persoana din fața ta să te judece? Cum să faci să nu te mai afecteze părerea lor legată de interesele tale muzicale?`,
+        paragraph4: `Personal, nu pot spune că am avut vreodată un gen de muzică favorit. Eu ascult muzică mai mult prin faptul că o asociez cu anumite experiențe. Ascult muzică românească, pentru că îmi amintește de copilărie, când mă bucuram să-mi aud piesa favorită la radio. Ascult Billie Eilish, pentru că o prietenă obișnuia să o adore și pentru că abordează teme sociale despre care mi-ar plăcea să fiu capabilă să scriu. Ascult rock, pentru că un client de la job-ul meu de vară a complimentat un playlist pe care eu l-am pus în magazin. Ascultam Taylor Swift, pentru că o prietenă obișnuia să fie obsedată de muzica ei și îmi plăcea să o ascult cum vorbește cu atâta admirație despre ea. Ascult muzică clasică, pentru că mă face să mă gândesc cum ar fi arătat viața mea acum dacă aș fi continuat să fac lecții de pian când eram mică. Ascult piese care se cântă în tabere de vară în jurul focului, pentru că aș da orice să mă întorc acolo. Ascult Queen, Michael Jackson și alți artiști considerați embleme la vremea lor, dar ascult și piese scrise de artiști contemporani la început de drum. Ascult Pink Floyd, pentru că o persoană la care am ajuns să țin mult într-un timp scurt mi-a zis că albumul său preferat e de la ei. Ascultam kpop, pentru că orice om pe care l-am întâlnit care asculta kpop era plin de viață și mă făcea să mă simt safe. Ascult Scorpions, pentru că am ascultat un album de-al lor pentru prima dată la un pick-up la Jazz in the Park. Ascult piese mainstream, piese de pe TikTok, piese latino, pentru că mă fac să vreau să dansez. Ascult jazz, pentru că prima dată când am întâlnit pe cineva care spunea că îi place muzica jazz mi s-a părut drăguț să aud că asta e muzica sa preferată. Ascult My Chemical Romance, pentru că, atunci când o prietenă i-a descoperit, am stat o seară întreagă să interpretăm versuri din melodiile lor. Ascult muzică turcească, pentru că am crescut uitându-mă la telenovele turcești împreună cu mama. Ascult piese random de la artiști de care n-am auzit în viața mea, pentru că le aud la cineva pe story sau sunt puse ca soundtrack într-un film.`,
+        paragraph5: `Nu mă consider fană a niciunui artist de aici. Nu știu toate melodiile și toate albumele de la niciunul, nu știu detalii personale din viața lor. De la unii știu câteva piese și atât. Dar nu simt că asta face insignifiant faptul că ascult piese de la ei. Deci, atunci când mă întreabă cineva ce muzică ascult, ce le răspund? Care dintre toate genurile e cel mai puțin probabil să le creeze oamenilor o impresie greșită despre mine? Cum explic faptul că ascult de toate, dar nimic cu ardoarea unui fan?`,
+        paragraph6: `Mi-aș dori să nu fi auzit vreodată oameni vorbind negativ despre anumite genuri de muzică, oameni care se consideră superiori datorită a ceea ce ascultă. Dacă eu ascult și muzica lor, și muzica pe care o judecă ei, atunci mă integrez între ei sau nu? Le pot zice că ascult și eu acea muzică, sau o să râdă de mine?`,
+        paragraph8: `Muzica e una dintre cele mai frumoase experiențe care ne fac să ne simțim umani, iar ea rezonează cu fiecare om în mod diferit. Dacă cineva se simte el însuși ascultând pop, de ce să îi iei fericirea judecând muzica lui pe motiv că nu e underground? Dacă un om e fericit ascultând death metal, de ce să te uiți ciudat la el pe motiv că „aia nu e muzică”?`,
+        paragraph10: `Ceea ce mă face să admir un om instantaneu e să îi văd fața cum se luminează când vorbește despre artistul său preferat. Iubesc să văd oameni confident, la care nu le e rușine cu cine sunt și ceea ce le place. Oameni la care nu le pasă dacă alții le judecă taste-urile. Aș vrea să zic că sunt ca ei, dar încă mă simt insecure pentru muzica mea. Pentru că nu știu care e muzica mea. Muzica mea e adunată în timp, furată de la oamenii cu care am stat. Nu știu cum mă percep oamenii đin afară pe baza muzicii pe care o ascult. Care parte din muzica mea poate fi luată în calcul pentru a fi judecată, dacă nu simt că îmi aparține niciuna, dar, în același timp, îmi plac toate?`
+    },
+
+
+
+
+
+    {
+        id:50,
         title: `Muzica din generație în generație`,
         author: "Sophie Popa",
         date: "8 septembrie, 2023",
@@ -24,7 +104,7 @@ export const blogList = [
     },
 
     {
-        id:2,
+        id:51,
         title: `Cine este Nina Cassian`,
         author: "Iasmina Constantin",
         date: "8 septembrie, 2023",
@@ -63,7 +143,7 @@ export const blogList = [
     },
 
     {
-        id:3,
+        id:52,
         title: `M-am îndrăgostit de poezia românească`,
         author: "Maria Dejeu",
         date: "8 septembrie, 2023",
@@ -104,7 +184,7 @@ export const blogList = [
     },
 
     {
-        id:4,
+        id:53,
         title: `Frica de expunere a artiștilor`,
         author: `Tudor Pop`,
         date: `15 august, 2023`,
@@ -135,7 +215,7 @@ export const blogList = [
     },
 
     {
-        id:5,
+        id:54,
         title: `Iubirea, bat-o vina!`,
         author: "Alexandra Sălăjan",
         date: "15 august, 2023",
@@ -160,7 +240,7 @@ export const blogList = [
     },
 
     {
-        id:6,
+        id:55,
         title: `Despre nimic`,
         author: "Madi Blaga",
         date: "15 august, 2023",
@@ -191,7 +271,7 @@ export const blogList = [
     },
     
     {
-        id:7,
+        id:56,
         title: `Grădina lui Monet`,
         author: "Sophie Popa",
         date: "13 August, 2023",
@@ -215,7 +295,7 @@ export const blogList = [
     },
 
     {
-        id:8,
+        id:57,
         title: `Claude Monet, tatăl impresionismului`,
         author: "Maria Dejeu",
         date: "13 August, 2023",
@@ -240,7 +320,7 @@ export const blogList = [
     },
 
     {
-        id:9,
+        id:58,
         title: `Impresionismul`,
         author: "Alexandra Sălăjan",
         date: "13 August, 2023",
@@ -269,7 +349,7 @@ export const blogList = [
     
     
     {
-        id:10,
+        id:59,
         title: `Dacă am încetini ritmul vieții...`,
         category: 'Social',
         color: '#A19664',
@@ -292,7 +372,7 @@ export const blogList = [
     },
 
     {
-        id:11,
+        id:60,
         title: `Recenzie carte - “Căutând-o pe Alaska”`,
         category: 'Cultură',
         color: '#CC704B',
@@ -318,7 +398,7 @@ export const blogList = [
     },
     
     {
-        id:12,
+        id:61,
         title: `Recenzie carte - “Camera albastră”`,
         category: 'Cultură',
         color: '#CC704B',
@@ -345,7 +425,7 @@ export const blogList = [
 
 
     {
-        id:13,
+        id:62,
         title: `M-ar mai speria filmele horror dacă le-aș da pe mut?`,
         category: 'Cultură',
         color: '#CC704B',
@@ -366,7 +446,7 @@ export const blogList = [
     },
 
     {
-        id:14,
+        id:63,
         title: `În conversație cu Radu Băzăvan`,
         category: 'Cultură',
         color: '#CC704B',
@@ -410,7 +490,7 @@ export const blogList = [
     },
     
     {
-        id:15,
+        id:64,
         title: `Încercuit în AperiTIFF`,
         category: 'Cultură',
         color: '#CC704B',
@@ -453,7 +533,7 @@ export const blogList = [
 
     
     {
-        id:16,
+        id:65,
         title: `Voluntariatul – manifestare a altruismului?`,
         category: 'Social',
         color: '#A19664',
@@ -483,7 +563,7 @@ export const blogList = [
     },
 
     {
-        id:17,
+        id:66,
         title: `Recenzie carte - “Ca și cum nimic nu s-ar fi întâmplat”`,
         category: 'Cultură',
         color: '#CC704B',
@@ -502,7 +582,7 @@ export const blogList = [
     },
 
     {
-        id:18,
+        id:67,
         title: `În conversație cu noua generație de artiști`,
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -584,7 +664,7 @@ export const blogList = [
     },
 
     {
-        id:19,
+        id:68,
         title: `Cum a fost la "Poveste la film"`,
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -605,7 +685,7 @@ export const blogList = [
     },
 
     {
-        id:20,
+        id:69,
         title: `Despre "Aici Improvizăm"`,
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -625,7 +705,7 @@ export const blogList = [
     },
 
     {
-        id:21,
+        id:70,
         title: "Rujul și privirea masculină",
         category: 'Social',
         color: '#A19664',
@@ -655,7 +735,7 @@ export const blogList = [
     },
 
     {
-        id:22,
+        id:71,
         title: `Prima mea iubire muzicală.`,
         category: 'Cultură',
         color: '#CC704B',
@@ -684,7 +764,7 @@ export const blogList = [
     },
 
     {
-        id:23,
+        id:72,
         title: "STEM vs Arts",
         category: 'Social',
         color: '#A19664',
@@ -707,7 +787,7 @@ export const blogList = [
 
     {
 
-        id:24,
+        id:73,
         title: 'Nu sunt pasionata de nimic',
         category: 'Social',
         color: '#A19664',
@@ -731,7 +811,7 @@ export const blogList = [
     },
 
     {
-        id:25,
+        id:74,
         title: `Fallen Angels (1995) - o experiență cinematografică`,
         category: 'Cultură',
         color: '#CC704B',
@@ -752,7 +832,7 @@ export const blogList = [
     },
 
     {
-        id:26,
+        id:75,
         title: `Woodstock '99`,
         category: 'Cultură',
         color: '#CC704B',
@@ -777,7 +857,7 @@ export const blogList = [
     },
 
     {
-        id: 27,
+        id: 76,
         title: "Cafeluța de dimineață",
         category: "Social",
         color: '#A19664',
@@ -798,7 +878,7 @@ export const blogList = [
     },
 
     {
-        id:28,
+        id:77,
         title: 'Globuri și Copii ',
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -819,7 +899,7 @@ export const blogList = [
     },
 
     {
-        id:29,
+        id:78,
         title: 'În conversație cu noua generație de poeți',
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -861,7 +941,7 @@ export const blogList = [
     },
 
     {
-        id:30,
+        id:79,
         title: 'Despre Pălăvrăgeală Poetică',
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -880,7 +960,7 @@ export const blogList = [
     },
     
     {
-        id:31,
+        id:80,
         title: 'Taylor Swift',
         category: 'Cultură',
         color: '#CC704B',
@@ -903,7 +983,7 @@ export const blogList = [
     },
 
     {
-        id:32,
+        id:81,
         title: 'Odd Future- o scurtă istorie',
         category: 'Cultură',
         color: '#CC704B',
@@ -924,7 +1004,7 @@ export const blogList = [
     },
     
     {
-        id: 33,
+        id: 82,
         title: "Winter fashion",
         category: 'Cultură',
         color: '#CC704B',
@@ -945,7 +1025,7 @@ export const blogList = [
     },
 
     {
-        id: 34,
+        id: 83,
         title: 'Recenzie carte - "O altă țară"',
         subtitle: "Gata să izbucnească în muzică sau în flăcări sau o revelație",
         category: 'Cultură',
@@ -962,7 +1042,7 @@ export const blogList = [
         date: "30 Noiembrie, 2022"
     },
     {
-        id: 35,
+        id: 84,
         title: "Autodescoperire sau autodistrugere?",
         category: "Social",
         color: '#A19664',
@@ -981,7 +1061,7 @@ export const blogList = [
     },
 
     {
-        id:36,
+        id:85,
         title: "Muzică în căști cât tocești la bio",
         category: "Social",
         color: '#A19664',
@@ -1001,7 +1081,7 @@ export const blogList = [
     },
 
     {
-        id: 37,
+        id: 86,
         title: "Validarea academică",
         category: 'Social',
         color: '#A19664',
@@ -1021,7 +1101,7 @@ export const blogList = [
     },
 
     {
-        id: 38,
+        id: 87,
         title: 'Recenzie carte - "O viață măruntă"',
         category: 'Cultură',
         color: '#CC704B',
@@ -1042,7 +1122,7 @@ export const blogList = [
     },
 
     {
-        id: 39,
+        id: 88,
         title: "Despre Graffiti Drop",
         category: 'Interact Transilvania',
         color: '#3A8891',
@@ -1078,7 +1158,7 @@ export const blogList = [
     },
 
     {
-        id: 40,
+        id: 89,
         title: "Interact Transilvania --- Începuturi",
         category: 'Interact Transilvania',
         color: '#3A8891',
