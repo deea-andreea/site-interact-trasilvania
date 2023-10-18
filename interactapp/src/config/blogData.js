@@ -61,8 +61,8 @@ export const blogList = [
         color: '#A19664',
         time: '2 minute',
 
-        coverImg:'/assets/blogImages/cover/Ce muzica asculti? - cover.jpeg',
-        landscapeImg:'/assets/blogImages/landscape/Ce muzica asculti? - landscape.jpeg',
+        coverImg:'/assets/blogImages/cover/Ce muzica asculti - cover.jpeg',
+        landscapeImg:'/assets/blogImages/landscape/Ce muzica asculti - landscape.jpeg',
 
         description: `Care dintre toate genurile e cel mai puțin probabil să le creeze oamenilor o impresie greșită despre mine? Cum explic faptul că ascult de toate, dar nimic cu ardoarea unui fan?`,
         
